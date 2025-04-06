@@ -21,6 +21,8 @@ Animated TV shows reflect how the role of fathers in society has evolved over ti
    - Fathers not only show affection but also engage in imaginative play.
    - They become companions in games, emotionally available, and deeply present.
    - Example: *Bluey*
+![The Evolution of Fathers in Cartoons](img/father-evolution.png)
 
 **Conclusion:**  
-Cartoons mirror the transformation of fatherhood in real life — from distant authority figures to emotionally and physically involved parents. This evolution also reflects changing work conditions, gender roles, and expectations around parenting.
+Cartoons mirror the transformation of fatherhood in real life — from distant authority figures to emotionally and physically involved parents.
+ This evolution also reflects changing work conditions, gender roles, and expectations around parenting.
