@@ -22,7 +22,8 @@ I use this space to write down, organize, and improve the recipes I actually coo
 
 Here you will find all my recipes, each one in its own Markdown file:  
 
- 
+### Chickpeas
+
 - [Moroccan Couscous with Chickpeas](moroccan-couscous.md)  *(focus: microbiota, not high protein)*
 - [German Potato Salad](german-potato-salad.md) 
 
