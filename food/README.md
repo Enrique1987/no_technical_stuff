@@ -1,5 +1,7 @@
 # Food 🥗
 
+👉 This is my **healthy cooking notebook**. 
+
 This folder is my collection of **personal recipes**.  
 They reflect the way I try to live: **fit, vegetarian, high-protein, and healthy**.  
 
@@ -24,9 +26,20 @@ Here you will find all my recipes, each one in its own Markdown file:
 
 ### Chickpeas
 
-- [Moroccan Couscous with Chickpeas](moroccan-couscous.md)  *(focus: microbiota, not high protein)*
-- [German Potato Salad](german-potato-salad.md) 
+- [Moroccan Couscous with Chickpeas](moroccan-couscous.md)  
+- [Chickpeas Mango - Indian Style]   
+- [Red Thay Curry with Chickpeas]  
+- [Falafel]   
+- [Hummus]  
+- [Vegetarian Cocido (Spanish Recet)]  
+- [Chickpeas with Spinak]  
+- [Chana Masala]  
+- [Chickpeas Burger with sweet Potato]  
+
+
+
+- [German Potato Salad](german-potato-salad.md)  *(focus: microbiota, not high protein)* 
 
 ---
 
-👉 This is my **healthy cooking notebook**.  
+ 
