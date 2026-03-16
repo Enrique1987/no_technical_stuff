@@ -1,8 +1,5 @@
 
 ## 📘 No Rules Rules — Netflix Culture  
-*Lessons from the book by Reed Hastings & Erin Meyer*
-
----
 
 ### 🧠 Core Idea
 
@@ -11,7 +8,6 @@ Netflix built a **high-performance culture based on freedom and responsibility**
 The philosophy is simple:
 
 ```
-
 High Talent Density
 ↓
 More Freedom
@@ -19,16 +15,15 @@ More Freedom
 More Responsibility
 ↓
 Faster Innovation
-
 ```
 
 Instead of controlling employees with rules, Netflix hires **very strong people** and trusts them to make good decisions.
 
 ---
 
-## 🏛️ The Three Pillars of Netflix Culture
+### 🏛️ The Three Pillars of Netflix Culture
 
-### 1️⃣ Talent Density
+#### 1️⃣ Talent Density
 
 Netflix focuses on **hiring exceptional people**, not average ones.
 
@@ -36,29 +31,28 @@ The idea is that:
 
 > ⭐ A small team of great people outperforms a large team of average performers.
 
-#### Key practices
+##### Key practices
 
 - 💰 Pay **top-of-market salaries**
 - 🧠 Hire **highly capable people**
 - ❌ Remove **adequate performers**
 
-#### The Keeper Test
+##### The Keeper Test
 
 Managers ask themselves:
 
 > *“If this person told me they were leaving, how hard would I fight to keep them?”*
 
-If the answer is **not very hard**, Netflix encourages offering a **generous severance package**.
+If the answer is **not very hard**, Netflix encourages offering a **generous severance package**. 
+Lection: It can apply in my life, with hobbies, abonnments 
 
 ---
 
-### 2️⃣ Radical Feedback
+#### 2️⃣ Radical Feedback
 
-Netflix promotes **honest and continuous feedback**.
+3As Feedback 
 
-Instead of waiting for yearly performance reviews, feedback is shared **frequently and directly**.
-
-#### Good feedback should be:
+##### Good feedback should be:
 
 - 🎯 **Actionable**
 - 👍 **Appreciative**
@@ -72,22 +66,11 @@ Example:
 ✅ Good feedback  
 > “Start your presentations with a high-level overview before going into technical details.”
 
-A common framework:
 
-```
-
-Start
-Stop
-Continue
-
-```
-
----
 
 ### 3️⃣ Freedom and Responsibility
 
 Because Netflix hires strong people, it removes many traditional corporate rules.
-
 Examples:
 
 | Traditional Company | Netflix Approach |
@@ -127,46 +110,6 @@ Leaders should **explain the problem**, not dictate the solution.
 
 People closest to the problem often make the **best decisions**.
 
----
-
-### 🚫 No “Brilliant Jerks”
-
-Even highly talented employees are removed if they damage team culture.
-
-Performance without collaboration **is not tolerated**.
-
----
-
-### 🔍 Radical Transparency
-
-Netflix shares significant information internally:
-
-- financial data
-- strategy
-- company performance
-
-This allows employees to make **better independent decisions**.
-
----
-
-## ⚠️ Risks of the Netflix Model
-
-This culture **does not work everywhere**.
-
-Possible downsides:
-
-- 😬 High pressure environment
-- 🔥 Strong expectations
-- 🧩 Requires excellent hiring
-- 📣 Radical feedback can feel uncomfortable
-
-It works best in:
-
-- technology companies
-- fast-moving industries
-- creative environments
-
----
 
 ## 📚 Personal Lessons I Use in Real Life
 
@@ -198,12 +141,10 @@ Ask yourself periodically:
 > “If this disappeared from my life tomorrow, would I fight to keep it?”
 
 Apply it to:
-
 - commitments
 - projects
 - habits
 - obligations
-
 This helps eliminate **low-value activities**.
 
 ---
@@ -220,15 +161,4 @@ This works especially well in:
 
 Understanding creates **responsibility**, not blind obedience.
 
----
-
-### ⭐ Key Takeaways
-
-- Great teams beat large average teams
-- Honest feedback accelerates improvement
-- Freedom requires responsibility
-- Context is more powerful than control
-- Removing unnecessary rules increases speed and innovation
-
-#
 
