@@ -29,7 +29,7 @@ Netflix focuses on **hiring exceptional people**, not average ones.
 
 The idea is that:
 
-> ⭐ A small team of great people outperforms a large team of average performers.
+> ⭐ A small team of great people outperforms a large team of average performers. # that is a general rule more people = more problems.
 
 ##### Key practices
 
@@ -66,6 +66,14 @@ Example:
 ✅ Good feedback  
 > “Start your presentations with a high-level overview before going into technical details.”
 
+#### Actionable
+The person should know **what to change**.
+
+#### Appreciative
+Recognize **what works well**.
+
+#### Aimed to Help
+Feedback must come from a **supportive intention**, not ego.
 
 
 ### 3️⃣ Freedom and Responsibility
@@ -90,17 +98,7 @@ Instead of telling people *how* to do something, leaders explain:
 
 Then employees decide **how to solve it**.
 
----
 
-## ⚙️ Principles That Make the System Work
-
-### 💰 Pay Top Talent
-
-Netflix prefers:
-
-> Paying **one great employee very well** instead of hiring **two average ones**.
-
-This increases motivation and reduces internal politics.
 
 ---
 
@@ -111,9 +109,9 @@ Leaders should **explain the problem**, not dictate the solution.
 People closest to the problem often make the **best decisions**.
 
 
-## 📚 Personal Lessons I Use in Real Life
+#### 📚 Personal Lessons I Use in Real Life
 
-### 🎯 The 3A Feedback Rule
+##### 🎯 The 3A Feedback Rule
 
 A practical feedback principle derived from the book.
 
@@ -123,18 +121,9 @@ Feedback = Actionable + Appreciative + Aimed to Help
 
 ```
 
-#### Actionable
-The person should know **what to change**.
-
-#### Appreciative
-Recognize **what works well**.
-
-#### Aimed to Help
-Feedback must come from a **supportive intention**, not ego.
-
 ---
 
-### 🧠 The Keeper Test (Personal Version)
+##### 🧠 The Keeper Test (Personal Version)
 
 Ask yourself periodically:
 
@@ -149,7 +138,7 @@ This helps eliminate **low-value activities**.
 
 ---
 
-### 🧭 Context Over Control (Life Principle)
+##### 🧭 Context Over Control (Life Principle)
 
 Instead of telling people **what to do**, explain **why something matters**.
 
@@ -161,4 +150,15 @@ This works especially well in:
 
 Understanding creates **responsibility**, not blind obedience.
 
+**Pure control**
 
+“Bed. Now.”
+
+**Context over control**
+
+“We go to bed now because your body and brain need sleep to grow, and tomorrow you want energy to play and train.”
+
+That gives meaning to the routine.
+
+
+**Rule + reason + calm consequence**
