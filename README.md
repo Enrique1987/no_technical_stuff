@@ -10,6 +10,7 @@ But here, I want to keep the other side of life:
 - 📝 **Personal Notes**: any ideas, reflections, or things I want to remember that don’t fit in my technical repos.  
 - 🥋 **Martial arts & contact sports**: training notes, class examples, and learning resources.
 - 🗣️ **Languages**: notes and resources for the languages I am learning.
+- 🤸 **[Stretching](Stretching/)**: mobility and stretching notes for general movement, hips, and shoulders.
 
 ---
 
@@ -26,6 +27,7 @@ Think of it as my "second brain" for non-technical topics.
 - **Books** → reading list, thoughts, highlights.  
 - **[Martial arts & contact sports](martial-arts_contact-sport/)** → BJJ, judo, grappling, MMA, and muay thai notes.
 - **[Languages](lenguaje/)** → German, English, Russian, Italian, and Portuguese notes.
+- **[Stretching](Stretching/)** → general mobility, hip mobility, and shoulder mobility.
 - **Other Personal Topics** → flexible space for everything else that’s important but not technical.  
 
 ---
