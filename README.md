@@ -10,6 +10,7 @@ But here, I want to keep the other side of life:
 - 📝 **Lessons**: ideas, reflections, or things I want to remember that don’t fit in my technical repos.
 - 🥋 **Martial arts & contact sports**: training notes, class examples, and learning resources.
 - 🗣️ **Languages**: notes and resources for the languages I am learning.
+- 🤸 **[Stretching](Stretching/)**: mobility and stretching notes for general movement, hips, and shoulders.
 
 ---
 
