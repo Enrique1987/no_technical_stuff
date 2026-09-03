@@ -38,3 +38,31 @@ Las ilustraciones se generan sin texto. Los títulos y párrafos se incorporan
 durante la maquetación para garantizar legibilidad y permitir correcciones sin
 tener que regenerar las imágenes.
 
+## Maquetación aprobada
+
+La primera página de Juana de Arco fija el patrón para el resto del libro:
+
+- La ilustración ocupa toda la página, sin marcos ni recortes decorativos.
+- El texto se integra directamente en los espacios naturales del dibujo.
+- No se utilizan cajas, bandas oscuras, tarjetas ni pergaminos que oculten una
+  parte grande de la imagen.
+- Un texto largo puede dividirse en tres fragmentos breves que recorran la
+  página y acompañen visualmente la historia.
+- El color se adapta al fondo: azul muy oscuro sobre cielo o zonas claras y
+  marfil sobre zonas oscuras o detalladas.
+- Puede usarse un contorno muy fino para conservar el contraste, pero nunca un
+  halo grueso que convierta las letras en manchas blancas.
+- El rostro, las manos y la acción principal de Ana-Sophia deben permanecer
+  libres de texto.
+- El título de cada guerrera puede tener carácter histórico; para Juana de Arco
+  se usa una caligrafía medieval en un tono oro rojizo.
+
+Estas reglas describen el enfoque, no posiciones fijas. Los bloques deben
+colocarse de nuevo para cada ilustración según sus zonas libres y su contraste.
+
+## Método de aprobación
+
+1. Aprobar el texto antes de maquetarlo.
+2. Probar una sola página cada vez.
+3. Ajustar posición, tamaño y color sobre la imagen real.
+4. Incorporar la página al proyecto únicamente después del visto bueno.

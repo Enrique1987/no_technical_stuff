@@ -1,18 +1,32 @@
 # Hoy Ana-Sophia es... Juana de Arco
 
-Estado del texto: aprobado para la PoC
+Estado del texto: página izquierda aprobada; página derecha pendiente de revisión
 
 ## Página izquierda: la transformación
 
-### Texto
+### Texto 1: el peligro
 
 En 1429, Francia e Inglaterra llevaban muchos años en guerra. La ciudad francesa
 de Orleans estaba rodeada por el ejército inglés y sus habitantes comenzaban a
-perder la esperanza. Si la ciudad caía, los ingleses podrían seguir avanzando.
-Entonces apareció Juana de Arco. Tenía unos diecisiete años, no pertenecía al
-ejército y nunca había dirigido una batalla, pero estaba convencida de que debía
-ayudar. Logró que el futuro rey de Francia confiara en ella, se puso una armadura
-y partió hacia Orleans con soldados y provisiones.
+perder la esperanza. Si Orleans caía, los ingleses podrían seguir avanzando y
+Carlos, heredero al trono francés, perdería una ciudad fundamental.
+
+### Texto 2: la decisión de Juana
+
+Entonces apareció Juana de Arco. Tenía unos diecisiete años y no era soldado ni
+pertenecía a una familia poderosa. Estaba convencida de que Dios le había
+confiado una misión: ayudar a Francia y llevar a Carlos hasta su coronación. Para
+llegar hasta él pidió ayuda al capitán Robert de Baudricourt. Al principio no la
+creyó, pero Juana regresó y siguió insistiendo hasta conseguir una pequeña
+escolta.
+
+### Texto 3: el encuentro con Carlos
+
+Juana cabalgó durante once días por territorio peligroso hasta el castillo de
+Chinon. Allí habló con Carlos, que todavía no había sido coronado rey. Él y sus
+consejeros la escucharon, le hicieron muchas preguntas y ordenaron que fuera
+examinada. Finalmente decidieron confiar en ella: le prepararon una armadura, un
+estandarte y permiso para viajar hacia Orleans con soldados y provisiones.
 
 ### Imagen 1
 

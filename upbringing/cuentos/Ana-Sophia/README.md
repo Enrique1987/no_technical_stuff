@@ -40,13 +40,15 @@ comprender la historia.
 
 ## Prueba de concepto: Juana de Arco
 
-La maqueta cuadrada de dos páginas se puede regenerar desde la raíz del
-repositorio con:
+La primera página aprobada se puede regenerar desde la raíz del repositorio con:
 
 ```powershell
-python upbringing/cuentos/Ana-Sophia/tools/build_juana_poc.py
+python upbringing/cuentos/Ana-Sophia/tools/build_juana_page1.py
 ```
 
 El PDF resultante se guarda en
-`output/pdf/doce_armaduras_ana_sophia_juana_poc.pdf`.
+`output/pdf/doce_armaduras_juana_pagina1_aprobada.pdf`.
+
+La antigua maqueta de dos páginas se conserva únicamente como prueba anterior;
+no representa la dirección visual aprobada.
 
