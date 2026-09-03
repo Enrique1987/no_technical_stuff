@@ -38,3 +38,15 @@ Cada texto debe explicar tres cosas: cuál era el problema, qué hizo la guerrer
 y por qué aquello fue importante. Se evitarán fechas y nombres que no ayuden a
 comprender la historia.
 
+## Prueba de concepto: Juana de Arco
+
+La maqueta cuadrada de dos páginas se puede regenerar desde la raíz del
+repositorio con:
+
+```powershell
+python upbringing/cuentos/Ana-Sophia/tools/build_juana_poc.py
+```
+
+El PDF resultante se guarda en
+`output/pdf/doce_armaduras_ana_sophia_juana_poc.pdf`.
+
