@@ -23,7 +23,9 @@
 ## Juana de Arco: estado actual
 
 - Las tres ilustraciones versión Ghibli v2 están aprobadas.
-- La primera página y sus tres textos están aprobados.
+- La primera página, su maquetación y sus tres textos están aprobados.
+- Los tres textos de la segunda página están aprobados; su maquetación está
+  pendiente de aprobación.
 - El título aprobado usa una caligrafía medieval en tono oro rojizo.
 - El primer texto aparece en azul oscuro sobre el cielo.
 - Los textos segundo y tercero aparecen en marfil sobre las zonas más oscuras.
@@ -41,6 +43,7 @@
 
 ## Próximo paso
 
-Revisar y, si hace falta, ampliar el texto de la segunda página antes de probar
-su maquetación. No reutilizar automáticamente el texto anterior ni maquetar las
-dos escenas hasta que el nuevo texto esté aprobado.
+Preparar y revisar la maquetación de la segunda página con las imágenes de la
+entrada en Orleans y la ruptura del cerco. Aplicar el enfoque de texto integrado
+sin cajas, pero decidir posiciones y colores según las zonas libres de estas dos
+ilustraciones.

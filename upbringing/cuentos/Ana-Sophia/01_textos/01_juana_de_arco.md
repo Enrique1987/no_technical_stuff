@@ -1,6 +1,6 @@
 # Hoy Ana-Sophia es... Juana de Arco
 
-Estado del texto: página izquierda aprobada; página derecha pendiente de revisión
+Estado del texto: páginas izquierda y derecha aprobadas
 
 ## Página izquierda: la transformación
 
@@ -33,15 +33,24 @@ estandarte y permiso para viajar hacia Orleans con soldados y provisiones.
 Ana-Sophia transformada en Juana de Arco, con armadura medieval y un estandarte,
 ante la ciudad de Orleans sitiada. Debe transmitir decisión, no violencia.
 
-## Página derecha, escena superior
+## Página derecha
 
-### 1. Entró en la ciudad
+### Texto 1: entró en Orleans
 
-Juana consiguió entrar en Orleans mientras el cerco aún continuaba. Recorrió las
-defensas, habló con los soldados y participó en los ataques contra las posiciones
-inglesas. Durante uno de ellos, una flecha la hirió, pero regresó junto a los
-combatientes. Su determinación hizo que un ejército cansado volviera a creer que
-la ciudad podía salvarse.
+El 29 de abril de 1429, Juana llegó a Orleans acompañando un convoy con alimentos
+y otras provisiones. La ciudad seguía cercada, pero sus habitantes la recibieron
+con alegría: por fin llegaba ayuda. Juana recorrió las defensas, habló con
+soldados y capitanes y les recordó que todavía podían resistir. Su confianza
+empezó a cambiar el ánimo de una ciudad agotada.
+
+### Texto 2: luchó junto a los soldados
+
+Durante los días siguientes, los franceses atacaron las fortificaciones inglesas
+que rodeaban Orleans. Juana no dirigía sola el ejército: combatía junto a
+capitanes experimentados, llevaba su estandarte y animaba a los hombres a
+avanzar. El 7 de mayo, una flecha la hirió durante el ataque a Les Tourelles. Se
+retiró para curarse, pero regresó, y los franceses conquistaron aquella posición
+decisiva.
 
 ### Imagen 2
 
@@ -49,15 +58,13 @@ Ana-Sophia dentro de Orleans, de pie ante habitantes y soldados cansados. Habla
 con ellos, con una mano levantada, y consigue que vuelvan a creer que pueden
 salvar la ciudad. No aparece a caballo ni posa mirando al lector.
 
-## Página derecha, escena inferior
+### Texto 3: cambió el rumbo de la guerra
 
-### 2. Cambió el rumbo de la guerra
-
-El 8 de mayo de 1429, los ingleses levantaron el sitio y se alejaron de Orleans.
-La guerra no había terminado, pero aquella victoria cambió su rumbo. Poco
-después, Juana acompañó al futuro Carlos VII hasta Reims, donde fue coronado rey.
-Al año siguiente fue capturada y, con solo diecinueve años, condenada en un juicio
-injusto. Años después, su nombre quedó rehabilitado.
+Al día siguiente, los ingleses levantaron el cerco y se alejaron de Orleans. La
+guerra no había terminado, pero aquella victoria cambió su rumbo. Poco después,
+Juana acompañó a Carlos hasta Reims, donde fue coronado rey. En 1430 fue
+capturada y, al año siguiente, murió condenada en un juicio injusto. Veinticinco
+años después, otro tribunal anuló aquella condena y rehabilitó su nombre.
 
 ### Imagen 3
 
@@ -67,8 +74,8 @@ posiciones. No hay heridos ni cadáveres.
 
 ## La armadura
 
-**Su armadura fue la esperanza: vio una posibilidad cuando los demás solo veían
-una derrota.**
+**Su armadura fue la esperanza: convirtió el miedo en valor y el valor en
+acción.**
 
 ## Aprendizajes que debe conservar el capítulo
 
