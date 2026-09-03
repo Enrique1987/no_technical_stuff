@@ -3,6 +3,9 @@
 Proyecto de cuento infantil personalizado en el que Ana-Sophia viaja a distintos
 momentos de la historia y encarna a doce guerreras que existieron realmente.
 
+La estética visual obligatoria y las reglas de continuidad del personaje se
+encuentran en [`DIRECCION_ARTISTICA.md`](DIRECCION_ARTISTICA.md).
+
 ## Flujo de trabajo
 
 1. Escribir y revisar por separado el texto de cada guerrera.
@@ -34,4 +37,18 @@ Las fotografías personales de Ana-Sophia se mantienen fuera del repositorio.
 Cada texto debe explicar tres cosas: cuál era el problema, qué hizo la guerrera
 y por qué aquello fue importante. Se evitarán fechas y nombres que no ayuden a
 comprender la historia.
+
+## Prueba de concepto: Juana de Arco
+
+La primera página aprobada se puede regenerar desde la raíz del repositorio con:
+
+```powershell
+python upbringing/cuentos/Ana-Sophia/tools/build_juana_page1.py
+```
+
+El PDF resultante se guarda en
+`output/pdf/doce_armaduras_juana_pagina1_aprobada.pdf`.
+
+La antigua maqueta de dos páginas se conserva únicamente como prueba anterior;
+no representa la dirección visual aprobada.
 
