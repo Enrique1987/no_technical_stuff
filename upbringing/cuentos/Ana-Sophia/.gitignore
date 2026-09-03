@@ -1,0 +1,8 @@
+# Fotografías personales de Ana-Sophia: mantener fuera del repositorio.
+02_referencias/fotos_privadas/
+
+# Archivos de impresión y exportaciones pesadas: se añadirán expresamente
+# cuando exista una versión final que merezca conservarse.
+04_paginas/exportaciones/
+05_impresion/borradores/
+
