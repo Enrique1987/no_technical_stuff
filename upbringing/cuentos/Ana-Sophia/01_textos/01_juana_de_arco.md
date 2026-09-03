@@ -1,6 +1,6 @@
 # Hoy Ana-Sophia es... Juana de Arco
 
-Estado: primer borrador para revisión
+Estado del texto: aprobado para la PoC
 
 ## Página izquierda: la transformación
 
@@ -31,8 +31,9 @@ la ciudad podía salvarse.
 
 ### Imagen 2
 
-Ana-Sophia entrando en Orleans con el estandarte levantado, acompañada por
-soldados y carros con alimentos. Los habitantes la reciben desde las calles.
+Ana-Sophia dentro de Orleans, de pie ante habitantes y soldados cansados. Habla
+con ellos, con una mano levantada, y consigue que vuelvan a creer que pueden
+salvar la ciudad. No aparece a caballo ni posa mirando al lector.
 
 ## Página derecha, escena inferior
 
@@ -46,8 +47,9 @@ injusto. Años después, su nombre quedó rehabilitado.
 
 ### Imagen 3
 
-Ana-Sophia en primer plano mientras los habitantes celebran la liberación de
-Orleans. Al fondo, el ejército inglés se retira; no hay heridos ni cadáveres.
+Ana-Sophia encabeza a los defensores mientras atraviesan una fortificación
+inglesa abierta. El cerco se ha roto y, al fondo, los ingleses abandonan sus
+posiciones. No hay heridos ni cadáveres.
 
 ## La armadura
 

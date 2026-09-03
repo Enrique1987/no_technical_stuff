@@ -3,6 +3,9 @@
 Proyecto de cuento infantil personalizado en el que Ana-Sophia viaja a distintos
 momentos de la historia y encarna a doce guerreras que existieron realmente.
 
+La estética visual obligatoria y las reglas de continuidad del personaje se
+encuentran en [`DIRECCION_ARTISTICA.md`](DIRECCION_ARTISTICA.md).
+
 ## Flujo de trabajo
 
 1. Escribir y revisar por separado el texto de cada guerrera.
