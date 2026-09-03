@@ -15,9 +15,9 @@ IMAGES = PROJECT / "03_ilustraciones" / "01_juana_de_arco"
 OUTPUT = ROOT / "output" / "pdf" / "doce_armaduras_ana_sophia_juana_poc.pdf"
 
 PAGE = 210 * mm
-INK = HexColor("#FFF8E8")
-GOLD = HexColor("#F5C96A")
-NAVY = HexColor("#16283A")
+PAPER = HexColor("#FFF8E8")
+INK = HexColor("#26333A")
+ACCENT = HexColor("#8B3E35")
 
 
 def register_fonts():
@@ -86,9 +86,17 @@ def draw_paragraph(c, text, x, top_y, width, font_size, leading, color=INK):
     return y
 
 
-def translucent_box(c, x, y, width, height, alpha=0.78, radius=5 * mm):
+def image_veil(c, x, y, width, height, alpha=0.12):
     c.saveState()
-    c.setFillColor(NAVY)
+    c.setFillColor(PAPER)
+    c.setFillAlpha(alpha)
+    c.rect(x, y, width, height, stroke=0, fill=1)
+    c.restoreState()
+
+
+def translucent_box(c, x, y, width, height, alpha=0.88, radius=5 * mm):
+    c.saveState()
+    c.setFillColor(PAPER)
     c.setFillAlpha(alpha)
     c.roundRect(x, y, width, height, radius, stroke=0, fill=1)
     c.restoreState()
@@ -97,11 +105,12 @@ def translucent_box(c, x, y, width, height, alpha=0.78, radius=5 * mm):
 def page_one(c):
     image = IMAGES / "01_presentacion-ghibli-v2.png"
     draw_cover_image(c, image, 0, 0, PAGE, PAGE)
+    image_veil(c, 0, 0, PAGE, PAGE, 0.10)
 
     title_x = 12 * mm
     title_y = PAGE - 49 * mm
-    translucent_box(c, 8 * mm, title_y - 3 * mm, 94 * mm, 39 * mm, 0.72)
-    c.setFillColor(GOLD)
+    translucent_box(c, 8 * mm, title_y - 3 * mm, 108 * mm, 39 * mm, 0.86)
+    c.setFillColor(ACCENT)
     c.setFont(BOLD_FONT, 11)
     c.drawString(title_x, PAGE - 22 * mm, "HOY ANA-SOPHIA ES...")
     c.setFillColor(INK)
@@ -122,7 +131,7 @@ def page_one(c):
     box_y = 7 * mm
     box_width = 194 * mm
     box_height = 63 * mm
-    translucent_box(c, box_x, box_y, box_width, box_height, 0.82)
+    translucent_box(c, box_x, box_y, box_width, box_height, 0.90)
     draw_paragraph(
         c,
         intro,
@@ -136,43 +145,41 @@ def page_one(c):
 
 
 def event_band(c, y, number, heading, paragraph, armour=None):
-    half = PAGE / 2
-    band_height = 48 * mm
-    c.saveState()
-    c.setFillColor(NAVY)
-    c.setFillAlpha(0.84)
-    c.rect(0, y, PAGE, band_height, stroke=0, fill=1)
-    c.restoreState()
+    band_x = 5 * mm
+    band_y = y + 4 * mm
+    band_width = PAGE - 10 * mm
+    band_height = (48 if armour else 42) * mm
+    translucent_box(c, band_x, band_y, band_width, band_height, 0.90, 4 * mm)
 
-    circle_x = 12 * mm
-    circle_y = y + band_height - 12 * mm
-    c.setFillColor(GOLD)
+    circle_x = 14 * mm
+    circle_y = band_y + band_height - 12 * mm
+    c.setFillColor(ACCENT)
     c.circle(circle_x, circle_y, 6 * mm, stroke=0, fill=1)
-    c.setFillColor(NAVY)
+    c.setFillColor(PAPER)
     c.setFont(BOLD_FONT, 14)
     c.drawCentredString(circle_x, circle_y - 1.7 * mm, str(number))
 
     text_x = 22 * mm
-    c.setFillColor(GOLD)
+    c.setFillColor(ACCENT)
     c.setFont(BOLD_FONT, 13)
-    c.drawString(text_x, y + band_height - 9 * mm, heading)
+    c.drawString(text_x, band_y + band_height - 9 * mm, heading)
     body_bottom = draw_paragraph(
         c,
         paragraph,
         text_x,
-        y + band_height - 17 * mm,
+        band_y + band_height - 17 * mm,
         PAGE - text_x - 10 * mm,
         10.5,
         12.8,
     )
     if armour:
-        c.setStrokeColor(GOLD)
+        c.setStrokeColor(ACCENT)
         c.setLineWidth(0.8)
-        c.line(text_x, y + 8 * mm, PAGE - 10 * mm, y + 8 * mm)
-        c.setFillColor(GOLD)
+        c.line(text_x, band_y + 8 * mm, PAGE - 10 * mm, band_y + 8 * mm)
+        c.setFillColor(ACCENT)
         c.setFont(BOLD_FONT, 10.5)
-        c.drawString(text_x, y + 3.5 * mm, armour)
-    if body_bottom < y + (11 * mm if armour else 4 * mm):
+        c.drawString(text_x, band_y + 3.5 * mm, armour)
+    if body_bottom < band_y + (11 * mm if armour else 4 * mm):
         raise RuntimeError(f"Text overflow in event {number}")
 
 
@@ -182,6 +189,8 @@ def page_two(c):
     image_three = IMAGES / "03_rompe_cerco-ghibli-v2.png"
     draw_cover_image(c, image_two, 0, half, PAGE, half, focus_x=0.5, focus_y=0.5)
     draw_cover_image(c, image_three, 0, 0, PAGE, half, focus_x=0.5, focus_y=0.5)
+    image_veil(c, 0, half, PAGE, half, 0.10)
+    image_veil(c, 0, 0, PAGE, half, 0.10)
 
     event_one = (
         "Juana consiguió entrar en Orleans mientras el cerco aún continuaba. "
