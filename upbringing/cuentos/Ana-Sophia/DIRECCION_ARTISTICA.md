@@ -66,3 +66,16 @@ colocarse de nuevo para cada ilustración según sus zonas libres y su contraste
 2. Probar una sola página cada vez.
 3. Ajustar posición, tamaño y color sobre la imagen real.
 4. Incorporar la página al proyecto únicamente después del visto bueno.
+
+## Cubierta y páginas preliminares
+
+- Portada y contraportada forman una única escena panorámica azul y dorada.
+- La portada contiene exactamente doce armaduras vacías; la contraportada no
+  añade armaduras ni repite a Ana-Sophia.
+- Los títulos de cubierta usan una tipografía gótica o medieval dorada. Los
+  textos largos pueden usar una serif más sencilla dentro de la misma gama de
+  oro para asegurar la legibilidad.
+- La dedicatoria debe ser una pausa visual: fondo marfil casi blanco, mucho
+  espacio vacío, borde dorado fino y ornamentación mínima.
+- Todo el texto permanece como una capa de maquetación reproducible; nunca se
+  pide al generador de imágenes que escriba el texto definitivo.

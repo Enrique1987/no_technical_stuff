@@ -6,6 +6,10 @@ momentos de la historia y encarna a doce guerreras que existieron realmente.
 La estética visual obligatoria y las reglas de continuidad del personaje se
 encuentran en [`DIRECCION_ARTISTICA.md`](DIRECCION_ARTISTICA.md).
 
+El estado consolidado está en [`HANDOFF.md`](HANDOFF.md) y la distribución del
+trabajo en grupos de tres se encuentra en
+[`PLAN_PERSONAJES.md`](PLAN_PERSONAJES.md).
+
 ## Flujo de trabajo
 
 1. Escribir y revisar por separado el texto de cada guerrera.

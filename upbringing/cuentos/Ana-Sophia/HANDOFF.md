@@ -37,17 +37,106 @@
 - Los textos segundo y tercero aparecen en marfil sobre las zonas más oscuras.
 - La cara y la bandera de Ana-Sophia quedan libres.
 
+La primera página aprobada de Juana es la referencia obligatoria para los demás
+capítulos. No deben copiarse sus posiciones exactas, pero sí su equilibrio entre
+contenido histórico, ilustración completa y texto integrado sin cajas.
+
+## Las doce protagonistas y su armadura
+
+La numeración comienza en la armadura superior de la portada y continúa en el
+sentido de las agujas del reloj:
+
+1. **Cinane**, Macedonia, siglo IV a. C.: armadura macedonia-iliria con bronce y
+   penacho rojo.
+2. **Khutulun**, mundo mongol, siglo XIII: armadura lamelar de las estepas.
+3. **Mavia**, confederación tanújida, siglo IV: indumentaria guerrera árabe de la
+   Antigüedad tardía; no estética otomana.
+4. **Amanirenas**, reino de Kush, siglo I a. C.: indumentaria real y militar
+   kushita o nubia; no Egipto de fantasía.
+5. **Sichelgaita de Salerno**, sur de Italia, siglo XI: cota de malla y equipo
+   lombardo-normando; no cruz templaria.
+6. **Fu Hao**, China Shang, hacia 1200 a. C.: cuero, placas y elementos de la
+   Edad del Bronce china.
+7. **Hangaku Gozen**, Japón, año 1201: equipo del periodo Kamakura; evitar
+   armaduras tardías del periodo Edo.
+8. **Tomiris**, masagetas, siglo VI a. C.: fieltro, cuero, piel limitada y placas
+   de las estepas; no ropa polar moderna.
+9. **Seis Mono**, mundo mixteca, siglo XI: indumentaria de noble-guerrera basada
+   en códices mixtecas; no guerrero águila azteca.
+10. **Juana de Arco**, Francia, siglo XV: armadura de placas medieval plateada.
+11. **Trưng Trắc**, mundo Lạc Việt, siglo I: textiles y elementos lamelares
+    compatibles con su región y época; no samurái japonesa.
+12. **Artemisia I de Caria**, siglo V a. C.: tradición caria con influencia
+    griega y motivos navales; visualmente distinta de Cinane.
+
+En varios casos no se conserva la armadura exacta de la protagonista. El libro
+debe hablar de una reconstrucción históricamente plausible, nunca de una certeza
+arqueológica inexistente. Los capítulos de Khutulun, Hangaku, Tomiris, Trưng
+Trắc y otras figuras transmitidas por crónicas deben distinguir con claridad el
+núcleo histórico de los detalles legendarios posteriores.
+
 ## Portada
 
 - Concepto visual aprobado: AS con ropa cotidiana en el centro de un círculo
   formado por exactamente doce armaduras vacías.
 - La imagen actual contiene exactamente doce armaduras.
-- Las armaduras de esta primera propuesta son simbólicas; no deben considerarse
-  definitivas hasta seleccionar las doce guerreras del libro.
-- Cuando la lista esté cerrada, cada armadura de la portada deberá corresponder
-  de forma reconocible a una de esas doce protagonistas.
+- La primera portada, que gustó especialmente, se conserva sin sobrescribir en
+  `03_ilustraciones/portada/portada_12_armaduras-v1-titulo.png`.
+- Existe una segunda versión que intenta relacionar las armaduras con las doce
+  protagonistas. Sigue siendo demasiado parecida a la original y varias
+  culturas no se reconocen espontáneamente; puede utilizarse como cubierta de
+  trabajo, pero no como prueba de exactitud histórica.
+- La guía `portada_12_armaduras-historicas-v2-guia.png` fija inequívocamente la
+  correspondencia entre cada armadura y cada protagonista.
 - El título se mantiene separado de la ilustración para poder ajustar su
   tipografía y posición sin regenerar la imagen.
+
+## Contraportada y cubierta completa
+
+- La cubierta debe percibirse como una sola ilustración panorámica: contraportada
+  a la izquierda y portada a la derecha.
+- La contraportada continúa la biblioteca azul, el suelo y el hilo de luz
+  dorado. No contiene a Ana-Sophia ni añade más armaduras.
+- El encabezado y el texto aprobado se presentan en distintas intensidades de
+  oro, con una sombra azul muy fina para garantizar la lectura.
+- La versión aprobada actual es
+  `03_ilustraciones/portada/cubierta-doble-v2-texto-aprobado.png`.
+- El lomo y los sangrados no se calculan hasta conocer el número final de
+  páginas, el gramaje del papel y las especificaciones de la imprenta.
+
+## Página de dedicatoria
+
+- Primera página interior casi vacía, en marfil muy claro, con borde y ornamentos
+  mínimos en oro.
+- Texto acordado:
+
+  > Para Ana-Sophia,<br>
+  > de tu papá y mamá,<br>
+  > que te adoran.
+
+- Propuesta actual:
+  `03_ilustraciones/00_preliminares/00_dedicatoria-v1.png`.
+
+## Trabajo paralelo en cuatro lotes
+
+Consultar [`PLAN_PERSONAJES.md`](PLAN_PERSONAJES.md) antes de empezar. Cada hilo
+debe trabajar únicamente en los archivos de sus tres protagonistas. No debe
+modificar la portada, la cubierta, `HANDOFF.md`, `README.md` ni
+`DIRECCION_ARTISTICA.md`; esos archivos compartidos se consolidarán después.
+
+Cada hilo seguirá esta secuencia para cada protagonista:
+
+1. Investigar y separar hechos comprobados, reconstrucciones y leyendas.
+2. Proponer los tres momentos narrativos y el texto completo.
+3. Esperar la aprobación expresa del texto.
+4. Generar tres imágenes claramente diferentes, sin texto incrustado.
+5. Esperar la aprobación de las imágenes.
+6. Maquetar primero una sola página y esperar aprobación antes de continuar.
+
+La referencia de identidad no privada es la Ana-Sophia ya aprobada en
+`03_ilustraciones/01_juana_de_arco/01_presentacion-ghibli-v2.png`. Si un hilo
+necesita fotografías originales, debe pedir al usuario que las adjunte allí;
+nunca debe añadirlas al repositorio público.
 
 ## Reutilización para otros niños
 
@@ -76,9 +165,11 @@
 - Un solo bloque de texto concentrado en la parte inferior.
 - Contornos claros demasiado gruesos alrededor de las letras.
 
-## Próximo paso
+## Próximos pasos compartidos
 
-Preparar y revisar la maquetación de la segunda página con las imágenes de la
-entrada en Orleans y la ruptura del cerco. Aplicar el enfoque de texto integrado
-sin cajas, pero decidir posiciones y colores según las zonas libres de estas dos
-ilustraciones.
+- Desarrollar los cuatro lotes de protagonistas definidos en
+  `PLAN_PERSONAJES.md`.
+- Completar después la maquetación de la segunda página de Juana con las imágenes
+  de la entrada en Orleans y la ruptura del cerco.
+- Revisar todas las armaduras cuando el diseño individual de las doce mujeres
+  esté aprobado; solo entonces realizar la portada histórica definitiva.
