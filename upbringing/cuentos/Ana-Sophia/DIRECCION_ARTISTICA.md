@@ -15,10 +15,14 @@ pintura al óleo, concept art realista, modelado 3D o metal hiperrealista.
 En todos los capítulos deben mantenerse:
 
 - Su rostro infantil y su edad actual; no convertirla en adulta.
-- Pelo castaño y rizado, normalmente recogido en dos trenzas.
+- Usar exclusivamente la fotografía de referencia que el usuario indique para
+  ese capítulo, sin sustituirla por otra elegida automáticamente.
+- Respetar el peinado, la textura del cabello y las gafas de esa fotografía;
+  no trasladar automáticamente las trenzas o los rizos de un capítulo a otro.
 - Ojos marrones.
-- Gafas redondas moradas.
-- Proporciones infantiles y expresión cálida.
+- Proporciones infantiles naturales y equilibradas, sin cabeza sobredimensionada
+  ni aspecto chibi.
+- Expresión cálida, valiente y serena.
 
 La ropa, el entorno y los objetos cambian según la guerrera y la época, pero
 Ana-Sophia debe seguir siendo reconocible de una escena a otra.
@@ -63,9 +67,13 @@ colocarse de nuevo para cada ilustración según sus zonas libres y su contraste
 ## Método de aprobación
 
 1. Aprobar el texto antes de maquetarlo.
-2. Probar una sola página cada vez.
-3. Ajustar posición, tamaño y color sobre la imagen real.
-4. Incorporar la página al proyecto únicamente después del visto bueno.
+2. Generar una sola imagen de prueba del personaje y esperar la aprobación de
+   identidad, pelo, gafas, proporciones y estilo antes de crear las demás.
+3. El estilo Studio Ghibli debe resultar inequívoco; se descarta cualquier
+   resultado realista, pictórico o genérico.
+4. Probar una sola página cada vez.
+5. Ajustar posición, tamaño y color sobre la imagen real.
+6. Incorporar la página al proyecto únicamente después del visto bueno.
 
 ## Cubierta y páginas preliminares
 

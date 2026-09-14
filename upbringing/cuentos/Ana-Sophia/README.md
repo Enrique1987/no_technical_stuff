@@ -12,6 +12,11 @@ trabajo en grupos de tres se encuentra en
 
 ## Flujo de trabajo
 
+Capítulos terminados y aprobados: **Juana de Arco** y **Cinane**.
+Sus páginas definitivas están en `04_paginas/01_juana_de_arco/` y
+`04_paginas/02_cinane/`, con nombres `pagina-1-aprobada.png` y `pagina-2-aprobada.png`.
+El texto completo de Khutulun está en `01_textos/03_khutulun.md`, pendiente de aprobación.
+
 1. Escribir y revisar por separado el texto de cada guerrera.
 2. Fijar los tres momentos visuales del capítulo.
 3. Crear una ficha visual estable de Ana-Sophia.

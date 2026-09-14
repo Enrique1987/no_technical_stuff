@@ -1,6 +1,6 @@
 # Hoy Ana-Sophia es... Juana de Arco
 
-Estado del texto: páginas izquierda y derecha aprobadas
+Estado: capítulo terminado. El usuario confirma Juana de Arco y Cinane como capítulos listos.
 
 ## Página izquierda: la transformación
 

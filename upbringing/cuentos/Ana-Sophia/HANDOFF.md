@@ -26,12 +26,32 @@
 - Se trabaja y aprueba una página cada vez: primero texto, después maquetación y
   finalmente incorporación al proyecto.
 
+## Enfoque narrativo y educativo
+
+- El libro presenta con naturalidad a sus protagonistas como guerreras y
+  líderes; sus capacidades se demuestran mediante sus acciones.
+- Cada capítulo debe mostrar el mundo de la protagonista, el obstáculo que
+  encontró, qué decidió hacer, qué consiguió y qué enseñanza puede llevarse
+  Ana-Sophia.
+- El mensaje de confianza e independencia debe permanecer implícito. Se evitarán
+  consignas, comparaciones insistentes con los hombres y formulaciones modernas
+  que resulten ajenas a la época del personaje.
+- Cuando las expectativas impuestas a una mujer sean importantes para entender
+  su historia, se explicarán con brevedad y sin convertirlas en el centro del
+  relato.
+- La voz será épica, cálida y aventurera, y permitirá que la protagonista inspire
+  por lo que hace, no porque el narrador explique lo que representa.
+- El cuento no presupone conocimientos históricos previos: cada persona, guerra
+  o conflicto necesario para comprender la acción recibe una explicación breve.
+- Los episodios se narran directamente. Las dudas sobre fuentes, crónicas o
+  leyendas se conservan en las notas internas y no interrumpen el relato infantil.
+- La frase de «La armadura» expresa la moraleja particular de cada guerrera.
+
 ## Juana de Arco: estado actual
 
 - Las tres ilustraciones versión Ghibli v2 están aprobadas.
 - La primera página, su maquetación y sus tres textos están aprobados.
-- Los tres textos de la segunda página están aprobados; su maquetación está
-  pendiente de aprobación.
+- El usuario confirma el capítulo completo como listo, incluida la segunda página.
 - El título aprobado usa una caligrafía medieval en tono oro rojizo.
 - El primer texto aparece en azul oscuro sobre el cielo.
 - Los textos segundo y tercero aparecen en marfil sobre las zonas más oscuras.
@@ -40,6 +60,14 @@
 La primera página aprobada de Juana es la referencia obligatoria para los demás
 capítulos. No deben copiarse sus posiciones exactas, pero sí su equilibrio entre
 contenido histórico, ilustración completa y texto integrado sin cajas.
+
+## Cinane: capítulo terminado
+
+- Texto, tres ilustraciones y ambas páginas aprobados por el usuario.
+- Página derecha definitiva: cruce del Estrimón y voluntad cumplida en Adea como reina.
+- Páginas aprobadas: `04_paginas/02_cinane/pagina-1-aprobada.png` y `pagina-2-aprobada.png`.
+- Texto oscuro de relleno sólido sobre áreas claras; sin contornos ni sombras dobles.
+- Siguiente capítulo: Khutulun. Entregar todo el texto para aprobación antes de imágenes.
 
 ## Las doce protagonistas y su armadura
 
@@ -169,7 +197,6 @@ nunca debe añadirlas al repositorio público.
 
 - Desarrollar los cuatro lotes de protagonistas definidos en
   `PLAN_PERSONAJES.md`.
-- Completar después la maquetación de la segunda página de Juana con las imágenes
-  de la entrada en Orleans y la ruptura del cerco.
+- Juana de Arco y Cinane están terminadas. Continuar con la revisión del texto de Khutulun.
 - Revisar todas las armaduras cuando el diseño individual de las doce mujeres
   esté aprobado; solo entonces realizar la portada histórica definitiva.
