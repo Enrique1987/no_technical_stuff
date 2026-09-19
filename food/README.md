@@ -1,5 +1,7 @@
 # Food 🥗
 
+[Saved food videos](fit-food/videos/) and [saved sweets videos](sweets/videos/) are indexed here with their original sources.
+
 👉 This is my **healthy cooking notebook**. 
 
 This folder is my collection of **personal recipes**.  

@@ -25,6 +25,11 @@ Think of it as my "second brain" for non-technical topics.
 - **Food** → recipes, ingredients, maybe even rankings of what I try.  
 - **Books** → reading list, thoughts, highlights.  
 - **[Martial arts & contact sports](martial-arts_contact-sport/)** → BJJ, judo, grappling, MMA, and muay thai notes.
+- **[Video library](VIDEO_LIBRARY.md)** → saved videos organized beside the relevant notes.
+- **[Fitness](fitness/)** → calisthenics and training exercises.
+- **[Health](health/)** → general health references.
+- **[Magic](magic/)** → magic references.
+- **[AI](ai/)** → AI references.
 - **[Languages](lenguaje/)** → German, English, Russian, Italian, and Portuguese notes.
 - **Other Personal Topics** → flexible space for everything else that’s important but not technical.  
 
