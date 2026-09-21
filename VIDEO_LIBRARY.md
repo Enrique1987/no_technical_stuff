@@ -23,4 +23,4 @@ Open the MP4 from its category index. For a useful technique or idea, copy [the 
 
 ## Storage
 
-The MP4s are tracked through Git LFS so Git history contains small pointers while GitHub stores the media objects. A clone needs Git LFS to retrieve the playable videos. Keep this repository private before pushing the media if the copies should remain for personal use only. No Instagram automation is part of this repository.
+The MP4s are tracked through Git LFS so Git history contains small pointers while GitHub stores the media objects. A clone needs Git LFS to retrieve the playable videos. This repository is public, so the videos in this branch are publicly accessible. No Instagram automation is part of this repository.
