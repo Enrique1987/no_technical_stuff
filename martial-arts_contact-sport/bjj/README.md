@@ -10,3 +10,7 @@ Add one Markdown file per class in [classes](classes/). A useful structure is:
 - Theme and techniques practiced
 - Drills and sparring notes
 - Key takeaways and questions to revisit
+
+## Videos
+
+- [Saved BJJ videos](videos/): 18 videos with creator and original source.
