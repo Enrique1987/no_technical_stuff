@@ -1,6 +1,6 @@
 # Food 🥗
 
-[Saved food videos](fit-food/videos/) and [saved sweets videos](sweets/videos/) are indexed here with their original sources.
+[Saved food videos](fit-food/videos/) and [saved sweets videos](sweets/videos/) are indexed with visible topics and original sources. Browse [savoury food ideas](savoury/) and [sweet food ideas](sweets/) by dish type; those pages link back to the original collections.
 
 👉 This is my **healthy cooking notebook**. 
 
@@ -40,7 +40,7 @@ Here you will find all my recipes, each one in its own Markdown file:
 
 
 
-- [German Potato Salad](german-potato-salad.md)  *(focus: microbiota, not high protein)* 
+- German Potato Salad *(planned recipe; focus: microbiota, not high protein)*
 
 ---
 
