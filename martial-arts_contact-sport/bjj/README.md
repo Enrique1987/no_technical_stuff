@@ -2,6 +2,10 @@
 
 Notes, techniques, drills, and class examples for Brazilian Jiu-Jitsu.
 
+## Learning roadmap
+
+- [Checklist por cinturones (blanca a negra)](ROADMAP-POR-CINTURONES.md): 102 casillas acumulativas de defensa, ataque, guardias, pases, derribos, cardio y hábitos de entrenamiento.
+
 ## Classes
 
 Add one Markdown file per class in [classes](classes/). A useful structure is:
@@ -13,4 +17,4 @@ Add one Markdown file per class in [classes](classes/). A useful structure is:
 
 ## Videos
 
-- [Saved BJJ videos](videos/): 18 videos with creator and original source.
+- [Saved BJJ videos](videos/): 18 clips indexed by visible topic and linked to the relevant checklist sections where appropriate.

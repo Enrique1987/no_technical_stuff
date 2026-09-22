@@ -2,9 +2,9 @@
 
 Original Instagram collection: crianza. Source platform: Instagram. Imported on 2026-09-19.
 
-The collection identifies where this video was saved, not necessarily the technique or topic it shows. Review the content before adding descriptive notes. Creator names were taken from download metadata and should be verified against the original post.
+The collection identifies where a video was saved. The topics below come from representative frames, not a complete transcript or recipe verification. They describe visible content and leave unclear details unconfirmed. Creator names came from download metadata and should be checked against the original posts.
 
-| Video | Creator | Original post | Notes |
+| Video | Creator | Original post | Visible topic |
 | --- | --- | --- | --- |
-| [Db3o8eCOAY-.mp4](Db3o8eCOAY-.mp4) | @lapizarradepaula_ | [Instagram](https://www.instagram.com/reel/Db3o8eCOAY-/) | Unreviewed |
-| [Dbk8yraqW-W.mp4](Dbk8yraqW-W.mp4) | @soyalvarobilbao | [Instagram](https://www.instagram.com/reel/Dbk8yraqW-W/) | Unreviewed |
+| [Db3o8eCOAY-.mp4](Db3o8eCOAY-.mp4) | @lapizarradepaula_ | [Instagram](https://www.instagram.com/reel/Db3o8eCOAY-/) | Parenting commentary about supervision and children |
+| [Dbk8yraqW-W.mp4](Dbk8yraqW-W.mp4) | @soyalvarobilbao | [Instagram](https://www.instagram.com/reel/Dbk8yraqW-W/) | Parenting commentary about respect and authority |

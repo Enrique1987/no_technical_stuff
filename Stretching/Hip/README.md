@@ -2,6 +2,8 @@
 
 A 12-level path for improving usable hip rotation, range, and control for Muay Thai. Work on one level at a time and unlock the next only when the current level is controlled, free from sharp pain or pinching, and does not cause a symptom flare later that day or the next day.
 
+- [Saved hip-mobility video references](VIDEO_REFERENCES.md). These are optional references, separate from the 12-level path.
+
 | Level | Exercise | Status |
 | --- | --- | --- |
 | 01 | [Bent-Knee Windshield Wipers](muay-thai-01-bent-knee-windshield-wipers.md) | 🟡 Start here |

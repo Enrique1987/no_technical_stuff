@@ -2,23 +2,23 @@
 
 Original Instagram collection: salud general. Source platform: Instagram. Imported on 2026-09-19.
 
-The collection identifies where this video was saved, not necessarily the technique or topic it shows. Review the content before adding descriptive notes. Creator names were taken from download metadata and should be verified against the original post.
+The collection identifies where a video was saved. The topics below come from representative frames, not a complete transcript or recipe verification. They describe visible content and leave unclear details unconfirmed. Creator names came from download metadata and should be checked against the original posts.
 
-| Video | Creator | Original post | Notes |
+| Video | Creator | Original post | Visible topic |
 | --- | --- | --- | --- |
-| [Da3HSCuoqUv.mp4](Da3HSCuoqUv.mp4) | @edugarcia_trainer | [Instagram](https://www.instagram.com/reel/Da3HSCuoqUv/) | Unreviewed |
-| [Da7JcGZoPlV.mp4](Da7JcGZoPlV.mp4) | @lukamoves_ | [Instagram](https://www.instagram.com/reel/Da7JcGZoPlV/) | Unreviewed |
-| [DYaF5xqPWyY.mp4](DYaF5xqPWyY.mp4) | @conor_harris_ | [Instagram](https://www.instagram.com/reel/DYaF5xqPWyY/) | Unreviewed |
-| [DXdC6Dsjq4S.mp4](DXdC6Dsjq4S.mp4) | @brian_pruett | [Instagram](https://www.instagram.com/reel/DXdC6Dsjq4S/) | Unreviewed |
-| [DVVgQ0oiFYC.mp4](DVVgQ0oiFYC.mp4) | @alexgonzalez | [Instagram](https://www.instagram.com/reel/DVVgQ0oiFYC/) | Unreviewed |
-| [Ddbc-kCkeCU.mp4](Ddbc-kCkeCU.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
-| [Ddbc-pTEewc.mp4](Ddbc-pTEewc.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
-| [Ddbc-tIEcBH.mp4](Ddbc-tIEcBH.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
-| [Ddbc-x9kaqS.mp4](Ddbc-x9kaqS.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
-| [Ddbc-3xETbp.mp4](Ddbc-3xETbp.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
-| [DdbdBJcEV_p.mp4](DdbdBJcEV_p.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
-| [DdbdBT8kTSk.mp4](DdbdBT8kTSk.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
-| [DdbdBa1kVLO.mp4](DdbdBa1kVLO.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
-| [DdbdBfiEZP0.mp4](DdbdBfiEZP0.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
-| [DdbdCrQkehI.mp4](DdbdCrQkehI.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
-| [DdbdDh5EQkC.mp4](DdbdDh5EQkC.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Unreviewed |
+| [Da3HSCuoqUv.mp4](Da3HSCuoqUv.mp4) | @edugarcia_trainer | [Instagram](https://www.instagram.com/reel/Da3HSCuoqUv/) | Dynamic hip and shoulder mobility routine |
+| [Da7JcGZoPlV.mp4](Da7JcGZoPlV.mp4) | @lukamoves_ | [Instagram](https://www.instagram.com/reel/Da7JcGZoPlV/) | Morning stretching/movement routine with cold-water segment |
+| [DYaF5xqPWyY.mp4](DYaF5xqPWyY.mp4) | @conor_harris_ | [Instagram](https://www.instagram.com/reel/DYaF5xqPWyY/) | Supine hamstring/hip mobility exercise |
+| [DXdC6Dsjq4S.mp4](DXdC6Dsjq4S.mp4) | @brian_pruett | [Instagram](https://www.instagram.com/reel/DXdC6Dsjq4S/) | Exercise selection and conditioning commentary |
+| [DVVgQ0oiFYC.mp4](DVVgQ0oiFYC.mp4) | @alexgonzalez | [Instagram](https://www.instagram.com/reel/DVVgQ0oiFYC/) | General wellness/fitness commentary with food and exercise |
+| [Ddbc-kCkeCU.mp4](Ddbc-kCkeCU.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Pull-up or hanging clip from ten-part fitness challenge |
+| [Ddbc-pTEewc.mp4](Ddbc-pTEewc.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Running-mile clip from ten-part fitness challenge |
+| [Ddbc-tIEcBH.mp4](Ddbc-tIEcBH.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Push-up clip from ten-part fitness challenge |
+| [Ddbc-x9kaqS.mp4](Ddbc-x9kaqS.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Pull-up clip from ten-part fitness challenge |
+| [Ddbc-3xETbp.mp4](Ddbc-3xETbp.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Wall-sit clip from ten-part fitness challenge |
+| [DdbdBJcEV_p.mp4](DdbdBJcEV_p.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Walking-steps clip from ten-part fitness challenge |
+| [DdbdBT8kTSk.mp4](DdbdBT8kTSk.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Plank clip from ten-part fitness challenge |
+| [DdbdBa1kVLO.mp4](DdbdBa1kVLO.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Bodyweight-squat clip from ten-part fitness challenge |
+| [DdbdBfiEZP0.mp4](DdbdBfiEZP0.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Forward-fold/toe-touch clip from ten-part fitness challenge |
+| [DdbdCrQkehI.mp4](DdbdCrQkehI.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Dead-hang clip from ten-part fitness challenge |
+| [DdbdDh5EQkC.mp4](DdbdDh5EQkC.mp4) | Unknown | [Instagram](https://www.instagram.com/p/DdbeDyxDjCV/) | Burpee clip from ten-part fitness challenge |
