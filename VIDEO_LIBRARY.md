@@ -1,5 +1,7 @@
 # Video library
 
+**Online player:** [open the searchable video library](https://enrique1987.github.io/no_technical_stuff/).
+
 These saved videos live in the same folders as the relevant notes. Each category has a `videos/` index with the MP4, Instagram creator when known, original post URL and a visible-topic description. The original Instagram collection is recorded in its index. Topics were assigned after reviewing representative frames, not complete transcripts. A collection name is not proof of the video's content, and recipe ingredients, nutrition claims, exercise advice and technique details still need checking in the full clip.
 
 | Category | Videos |

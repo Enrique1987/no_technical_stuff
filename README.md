@@ -1,5 +1,9 @@
 # Non-Technical Stuff
 
+## Online video library
+
+Browse and play the saved collections at [enrique1987.github.io/no_technical_stuff](https://enrique1987.github.io/no_technical_stuff/). The catalogue supports search and category filters and only downloads the selected video.
+
 This repository is my personal space for everything that is **not technical**.  
 Most of my GitHub is full of technical content — programming, mathematics, machine learning, advanced statistics, and data engineering.  
 
