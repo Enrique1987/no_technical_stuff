@@ -10,4 +10,4 @@ The [general-health collection](../../health/videos/) includes a ten-part social
 | Trunk and grip | [Plank](../../health/videos/DdbdBT8kTSk.mp4), [dead hang](../../health/videos/DdbdCrQkehI.mp4) | Use as practice references; stop if form deteriorates. |
 | Whole-body effort | [Burpees](../../health/videos/DdbdDh5EQkC.mp4) | Build volume progressively rather than treating the clip as a mandatory test. |
 
-Other clips in this collection show [exercise selection](../../health/videos/DXdC6Dsjq4S.mp4) and [general fitness commentary](../../health/videos/DVVgQ0oiFYC.mp4). Their health or nutrition claims have not been checked. For sport-specific effort control, see the [BJJ checklist](../../martial-arts_contact-sport/bjj/ROADMAP-POR-CINTURONES.md).
+Other clips in this collection show [exercise selection](../../health/videos/DXdC6Dsjq4S.mp4) and [general fitness commentary](../../health/videos/DVVgQ0oiFYC.mp4). Their health or nutrition claims have not been checked. For sport-specific effort control, see the [BJJ checklist](../../martial-arts_contact-sport/bjj/BELT-ROADMAP.md).

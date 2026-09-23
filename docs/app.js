@@ -28,8 +28,8 @@ function visibleVideos() {
 function renderCards() {
   const videos = visibleVideos();
   const selected = filters.querySelector(`[data-category="${state.category}"]`);
-  resultTitle.textContent = state.category === "all" ? "Todos los vídeos" : selected?.dataset.label || "Vídeos";
-  resultCount.textContent = `${videos.length} ${videos.length === 1 ? "resultado" : "resultados"}`;
+  resultTitle.textContent = state.category === "all" ? "All videos" : selected?.dataset.label || "Videos";
+  resultCount.textContent = `${videos.length} ${videos.length === 1 ? "result" : "results"}`;
   emptyState.hidden = videos.length > 0;
 
   grid.replaceChildren(...videos.map((video) => {
@@ -54,7 +54,7 @@ function renderFilters() {
     label: video.categoryLabel,
     count: (counts.get(video.category)?.count || 0) + 1,
   }));
-  const options = [["all", { label: "Todo", count: state.videos.length }], ...counts.entries()];
+  const options = [["all", { label: "All", count: state.videos.length }], ...counts.entries()];
   filters.replaceChildren(...options.map(([id, item]) => {
     const button = document.createElement("button");
     button.type = "button";
@@ -86,7 +86,7 @@ async function loadVideo(video) {
   loader.hidden = false;
   playerError.hidden = true;
   player.hidden = true;
-  loaderProgress.textContent = "Descargando desde Git LFS";
+  loaderProgress.textContent = "Downloading from Git LFS";
   state.controller = new AbortController();
 
   try {
@@ -104,7 +104,7 @@ async function loadVideo(video) {
         if (done) break;
         chunks.push(value);
         received += value.length;
-        loaderProgress.textContent = `Descargando · ${Math.round((received / total) * 100)}%`;
+        loaderProgress.textContent = `Downloading · ${Math.round((received / total) * 100)}%`;
       }
       bytes = new Uint8Array(received);
       let offset = 0;
@@ -150,7 +150,7 @@ document.querySelector("#clear-search").addEventListener("click", () => {
 
 fetch("videos.json")
   .then((response) => {
-    if (!response.ok) throw new Error("No se pudo cargar el catálogo");
+    if (!response.ok) throw new Error("The catalogue could not be loaded");
     return response.json();
   })
   .then((videos) => {
@@ -162,5 +162,5 @@ fetch("videos.json")
   })
   .catch((error) => {
     console.error(error);
-    resultTitle.textContent = "No se pudo cargar el catálogo";
+    resultTitle.textContent = "The catalogue could not be loaded";
   });
