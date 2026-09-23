@@ -21,7 +21,7 @@ These saved videos live in the same folders as the relevant notes. Each category
 
 ## Topic guides
 
-- [BJJ belt checklist and relevant clips](martial-arts_contact-sport/bjj/ROADMAP-POR-CINTURONES.md)
+- [BJJ belt checklist and relevant clips](martial-arts_contact-sport/bjj/BELT-ROADMAP.md)
 - [Savoury food ideas](food/savoury/) and [sweet food ideas](food/sweets/)
 - [Stretching](Stretching/): general, hip and shoulder references.
 - [Conditioning and fitness tests](fitness/conditioning/)
