@@ -11,6 +11,7 @@ const loaderProgress = document.querySelector("#loader-progress");
 const playerError = document.querySelector("#player-error");
 
 const state = { videos: [], category: "all", query: "", objectUrl: null, controller: null };
+const videoParam = "video";
 
 function normalized(value) {
   return value.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
@@ -126,18 +127,29 @@ async function loadVideo(video) {
   }
 }
 
-function openVideo(video) {
+function setVideoParam(videoId) {
+  const url = new URL(window.location.href);
+  if (videoId) url.searchParams.set(videoParam, videoId);
+  else url.searchParams.delete(videoParam);
+  window.history.replaceState({}, "", url);
+}
+
+function openVideo(video, { updateUrl = true } = {}) {
   document.querySelector("#player-category").textContent = video.categoryLabel;
   document.querySelector("#player-title").textContent = video.topic;
   document.querySelector("#player-creator").textContent = video.creator;
   document.querySelector("#instagram-link").href = video.instagram;
   document.querySelector("#download-link").href = video.mediaUrl;
-  dialog.showModal();
+  if (updateUrl) setVideoParam(video.id);
+  if (!dialog.open) dialog.showModal();
   loadVideo(video);
 }
 
 document.querySelector("#close-player").addEventListener("click", () => dialog.close());
-dialog.addEventListener("close", releaseVideo);
+dialog.addEventListener("close", () => {
+  releaseVideo();
+  setVideoParam(null);
+});
 dialog.addEventListener("click", (event) => { if (event.target === dialog) dialog.close(); });
 search.addEventListener("input", () => { state.query = search.value; renderCards(); });
 document.querySelector("#clear-search").addEventListener("click", () => {
@@ -159,6 +171,9 @@ fetch("videos.json")
     document.querySelector("#category-count").textContent = new Set(videos.map((video) => video.category)).size;
     renderFilters();
     renderCards();
+    const requestedId = new URLSearchParams(window.location.search).get(videoParam);
+    const requestedVideo = videos.find((video) => video.id === requestedId || video.filename === requestedId);
+    if (requestedVideo) openVideo(requestedVideo, { updateUrl: false });
   })
   .catch((error) => {
     console.error(error);
