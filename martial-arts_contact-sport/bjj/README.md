@@ -4,7 +4,7 @@ Notes, techniques, drills, and class examples for Brazilian Jiu-Jitsu.
 
 ## Learning roadmap
 
-- [Checklist por cinturones (blanca a negra)](ROADMAP-POR-CINTURONES.md): 102 casillas acumulativas de defensa, ataque, guardias, pases, derribos, cardio y hábitos de entrenamiento.
+- [Belt checklist from white to black](BELT-ROADMAP.md): 102 cumulative items covering defense, attacks, guards, passing, takedowns, cardio and training habits.
 
 ## Classes
 

@@ -21,13 +21,13 @@ CATEGORIES = {
         "grappling",
         "Grappling",
     ),
-    "fitness/calisthenics/videos/README.md": ("calisthenics", "Calistenia"),
-    "food/fit-food/videos/README.md": ("fit-food", "Comida salada y fit"),
-    "food/sweets/videos/README.md": ("sweets", "Comida dulce"),
-    "health/videos/README.md": ("health", "Salud y movilidad"),
-    "magic/videos/README.md": ("magic", "Magia"),
-    "ai/videos/README.md": ("ai", "Inteligencia artificial"),
-    "upbringing/videos/README.md": ("upbringing", "Crianza"),
+    "fitness/calisthenics/videos/README.md": ("calisthenics", "Calisthenics"),
+    "food/fit-food/videos/README.md": ("fit-food", "Savoury and fit food"),
+    "food/sweets/videos/README.md": ("sweets", "Sweet food"),
+    "health/videos/README.md": ("health", "Health and mobility"),
+    "magic/videos/README.md": ("magic", "Magic"),
+    "ai/videos/README.md": ("ai", "Artificial intelligence"),
+    "upbringing/videos/README.md": ("upbringing", "Parenting"),
 }
 
 ROW = re.compile(
