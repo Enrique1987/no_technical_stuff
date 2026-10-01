@@ -29,17 +29,14 @@ Here you will find all my recipes, each one in its own Markdown file:
 ### Chickpeas
 
 - [Moroccan Couscous with Chickpeas](moroccan-couscous.md)  
-- [Chickpeas Mango - Indian Style]   
-- [Red Thay Curry with Chickpeas]  
-- [Falafel]   
-- [Hummus]  
-- [Vegetarian Cocido (Spanish Recet)]  
-- [Chickpeas with Spinak]  
-- [Chana Masala]  
-- [Chickpeas Burger with sweet Potato]  
-
-
-
+- Chickpeas Mango - Indian Style — recipe note pending.
+- Red Thay Curry with Chickpeas — recipe note pending.
+- Falafel — recipe note pending.
+- Hummus — recipe note pending.
+- Vegetarian Cocido (Spanish Recet) — recipe note pending.
+- Chickpeas with Spinak — recipe note pending.
+- Chana Masala — recipe note pending.
+- Chickpeas Burger with sweet Potato — recipe note pending.
 - German Potato Salad *(planned recipe; focus: microbiota, not high protein)*
 
 ---

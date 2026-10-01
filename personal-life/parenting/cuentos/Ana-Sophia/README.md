@@ -43,7 +43,7 @@ comprender la historia.
 La primera página aprobada se puede regenerar desde la raíz del repositorio con:
 
 ```powershell
-python upbringing/cuentos/Ana-Sophia/tools/build_juana_page1.py
+python personal-life/parenting/cuentos/Ana-Sophia/tools/build_juana_page1.py
 ```
 
 El PDF resultante se guarda en
@@ -51,4 +51,3 @@ El PDF resultante se guarda en
 
 La antigua maqueta de dos páginas se conserva únicamente como prueba anterior;
 no representa la dirección visual aprobada.
-
