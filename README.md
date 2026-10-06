@@ -1,45 +1,21 @@
 # Non-Technical Stuff
 
+My personal notebook for recipes, learning, health, training and everyday life outside my technical projects.
+
+## Explore
+
+- **[Food](food/)** — recipes, healthy cooking, meal ideas and desserts.
+- **[Knowledge](knowledge/)** — languages, books, learning techniques and AI references.
+- **[Health](health/)** — general wellbeing, mobility and stretching.
+- **[Sports](sports/)** — martial arts, contact sports, calisthenics and conditioning.
+- **[Personal Life](personal-life/)** — parenting, hobbies and personal reflections.
+
+Notes and saved videos live with their topics. General mobility belongs in Health; sport-specific drills belong in Sports, with links between them where useful.
+
 ## Online video library
 
-Browse and play the saved collections at [enrique1987.github.io/no_technical_stuff](https://enrique1987.github.io/no_technical_stuff/). The catalogue supports search and category filters and only downloads the selected video.
+[Browse and play the saved videos](https://enrique1987.github.io/no_technical_stuff/). Each collection keeps its direct online playback links.
 
-This repository is my personal space for everything that is **not technical**.  
-Most of my GitHub is full of technical content — programming, mathematics, machine learning, advanced statistics, and data engineering.  
+## Video tools
 
-But here, I want to keep the other side of life:  
-
-- 🍲 **Food**: recipes, experiments in the kitchen, notes about what I’m eating.  
-- 📚 **Books**: what I’m currently reading, summaries, impressions, and recommendations.  
-- 📝 **Lessons**: ideas, reflections, or things I want to remember that don’t fit in my technical repos.
-- 🥋 **Martial arts & contact sports**: training notes, class examples, and learning resources.
-- 🗣️ **Languages**: notes and resources for the languages I am learning.
-- 🤸 **[Stretching](Stretching/)**: mobility and stretching notes for general movement, hips, and shoulders.
-
----
-
-## Why this repo?
-
-I needed a place to collect and organize personal things that inspire me or help me in everyday life, but that are **outside the technical world**.  
-Think of it as my "second brain" for non-technical topics.  
-
----
-
-## Content
-
-- **[Food](food/)** → recipes, savoury and sweet video ideas, and notes about ingredients.
-- **Books** → reading list, thoughts, highlights.  
-- **[Martial arts & contact sports](martial-arts_contact-sport/)** → BJJ, judo, grappling, MMA, and muay thai notes.
-- **[Video library](VIDEO_LIBRARY.md)** → saved videos organized beside the relevant notes.
-- **[Fitness](fitness/)** → calisthenics and conditioning references.
-- **[Health](health/)** → original general-health videos and links to exercise topics.
-- **[Magic](magic/)** → magic references.
-- **[AI](ai/)** → AI references.
-- **[Upbringing](upbringing/)** → parenting references and notes.
-- **[Languages](lenguaje/)** → German, English, Russian, Italian, and Portuguese notes.
-- **[Lessons](lessons/)** → brief reflections and lessons collected from everyday life.
-- **Other Personal Topics** → flexible space for everything else that’s important but not technical.  
-
----
-
-👉 In short: this repo is for my **non-technical life**.  
+Use the [video library](VIDEO_LIBRARY.md) to browse all saved collections and the [video note template](VIDEO_NOTE_TEMPLATE.md) to record a clip's source and what you learned.

@@ -10,7 +10,7 @@
 - Original collection: Unknown
 - Creator: @account or Unknown
 - Original URL: Unknown
-- Video: [Watch locally or on GitHub](relative-video-file.mp4)
+- Video: Replace this placeholder with a relative Markdown link to the saved MP4.
 - Saved date: Unknown
 
 ## Why I saved it

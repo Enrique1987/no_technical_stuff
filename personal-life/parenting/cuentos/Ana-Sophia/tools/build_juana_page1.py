@@ -8,8 +8,8 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.pdfgen import canvas
 
 
-ROOT = Path(__file__).resolve().parents[4]
-PROJECT = ROOT / "upbringing" / "cuentos" / "Ana-Sophia"
+ROOT = Path(__file__).resolve().parents[5]
+PROJECT = Path(__file__).resolve().parents[1]
 IMAGE = PROJECT / "03_ilustraciones" / "01_juana_de_arco" / "01_presentacion-ghibli-v2.png"
 OUTPUT = ROOT / "output" / "pdf" / "doce_armaduras_juana_pagina1_aprobada.pdf"
 PAGE = 210 * mm

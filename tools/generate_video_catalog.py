@@ -15,19 +15,19 @@ MEDIA_ROOT = (
 )
 
 CATEGORIES = {
-    "martial-arts_contact-sport/bjj/videos/README.md": ("bjj", "BJJ"),
-    "martial-arts_contact-sport/judo/videos/README.md": ("judo", "Judo"),
-    "martial-arts_contact-sport/grappling/videos/README.md": (
+    "sports/martial-arts/bjj/videos/README.md": ("bjj", "BJJ"),
+    "sports/martial-arts/judo/videos/README.md": ("judo", "Judo"),
+    "sports/martial-arts/grappling/videos/README.md": (
         "grappling",
         "Grappling",
     ),
-    "fitness/calisthenics/videos/README.md": ("calisthenics", "Calisthenics"),
+    "sports/fitness/calisthenics/videos/README.md": ("calisthenics", "Calisthenics"),
     "food/fit-food/videos/README.md": ("fit-food", "Savoury and fit food"),
     "food/sweets/videos/README.md": ("sweets", "Sweet food"),
     "health/videos/README.md": ("health", "Health and mobility"),
-    "magic/videos/README.md": ("magic", "Magic"),
-    "ai/videos/README.md": ("ai", "Artificial intelligence"),
-    "upbringing/videos/README.md": ("upbringing", "Parenting"),
+    "personal-life/magic/videos/README.md": ("magic", "Magic"),
+    "knowledge/ai/videos/README.md": ("ai", "Artificial intelligence"),
+    "personal-life/parenting/videos/README.md": ("upbringing", "Parenting"),
 }
 
 ROW = re.compile(

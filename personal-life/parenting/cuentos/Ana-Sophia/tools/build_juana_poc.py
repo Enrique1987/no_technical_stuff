@@ -9,8 +9,8 @@ from reportlab.pdfgen import canvas
 from reportlab.lib.units import mm
 
 
-ROOT = Path(__file__).resolve().parents[4]
-PROJECT = ROOT / "upbringing" / "cuentos" / "Ana-Sophia"
+ROOT = Path(__file__).resolve().parents[5]
+PROJECT = Path(__file__).resolve().parents[1]
 IMAGES = PROJECT / "03_ilustraciones" / "01_juana_de_arco"
 OUTPUT = ROOT / "output" / "pdf" / "doce_armaduras_ana_sophia_juana_poc.pdf"
 
