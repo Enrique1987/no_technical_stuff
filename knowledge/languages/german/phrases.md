@@ -43,3 +43,44 @@ Y deberían poder seleccionarse o marcarse bajo “A”.
 | 🔵 **Ideal** | Und sie sollten unter „A“ auswählbar bzw. markierbar sein. |
 
 **💡 Key:** `markieren` statt `markiern` · `sich markieren lassen` = poder marcarse · para una Kategorie/Option klingt `unter „A“` oft natürlicher als `bei „A“`.
+
+## 004 — Daily sentences (2026-10-06)
+
+Learn complete sentences as chunks so vocabulary, grammar, and natural sentence structure can be practised together.
+
+| German sentence | English meaning |
+| --- | --- |
+| **Welche Fehler habe ich gemacht?** | What mistakes did I make? |
+| **Um drei Uhr kommt meine Tochter.** | My daughter is coming at three o'clock. |
+| **Worauf soll ich achten?** | What should I pay attention to? |
+| **Worauf soll ich genau achten?** | What exactly should I pay attention to? |
+| **Ich achte auf meine Aussprache.** | I pay attention to my pronunciation. |
+| **Ich passe auf meine Kinder auf.** | I look after my children. |
+| **Ich möchte ganze Sätze speichern statt einzelne Wörter.** | I want to save whole sentences instead of individual words. |
+
+### Pattern: auf etwas achten → worauf achten
+
+`auf etwas achten` means to pay attention to something.
+
+> Ich achte auf meine Aussprache. → Worauf soll ich achten?
+
+Example in a conversation:
+
+> Worauf soll ich achten, wenn meine Frau Deutsch spricht?
+
+English meaning: What should I pay attention to when my wife speaks German?
+
+### Achten and aufpassen
+
+Both expressions use **auf**, but the notes distinguish their meanings:
+
+- `auf etwas achten`: pay attention to something.
+- `auf jemanden / etwas aufpassen`: look after or watch someone or something.
+
+The second example is separable: **Ich passe auf meine Kinder auf.**
+
+### Practice focus
+
+Practise the attention question, the **achten / aufpassen** distinction, and **Ich möchte ganze Sätze speichern statt einzelne Wörter.** as complete chunks, and try to use them naturally in conversation. The companion daily-sentence note adds the questions about mistakes and precise attention, plus the sentence about a daughter's arrival.
+
+Source: personal learning notes dated October 6, 2026, supplied as `german-daily-phrases-2026-10-06.md` and `german-daily-sentences-2026-10-06.md`. The overlapping attention pattern is consolidated here.
