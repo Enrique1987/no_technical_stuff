@@ -40,6 +40,17 @@ Aquí guardo **únicamente los libros que ya tengo**, con mi **nota personal sob
 |---|---|---|---:|---|
 | ✅ | Medio rey | Joe Abercrombie | — | El Mar Quebrado, 1 |
 
+
+## R. A. Salvatore — El elfo oscuro (edición de coleccionista)
+
+**Estado:** ✅ Tengo la trilogía completa en edición de coleccionista · 📚 Pendiente de leer · **Nota: —** (sin valorar todavía).
+
+| Estado | Libro | Autor | Mi nota /10 | Lectura | Edición |
+|---|---|---|---:|---|---|
+| ✅ | La morada | R. A. Salvatore | — | Pendiente | Coleccionista |
+| ✅ | El exilio | R. A. Salvatore | — | Pendiente | Coleccionista |
+| ✅ | El refugio | R. A. Salvatore | — | Pendiente | Coleccionista |
+
 ## Pendiente de inventariar
 
 - Los ómnibus de Gotrek y Félix están **excluidos de las búsquedas**, pero aún no están inventariados como ejemplares poseídos.
