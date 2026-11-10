@@ -4,20 +4,70 @@
 
 **Estado:** 🔎 pendiente de encontrar. Cuando adquiera un libro, quitarlo de esta lista y añadirlo a [Mi biblioteca de fantasía](fantasy_library.md) con ✅. Registrar ofertas reales con enlaces, precios totales y fechas.
 
-## Warhammer — skavens, goblins, enanos y elfos
+## Warhammer Fantasy — novelas publicadas en castellano
 
-- 🔎 **La sangre de Aenarion** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Los guardianes del bosque** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Defensores de Ulthuan** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **El custodio de agravios** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **El quebrantador de juramentos** · objetivo <10 € · oferta: — · edición castellana: verificar.
+**Fuente de verificación:** [catálogo contrastado con Timun Mas/Minotauro](https://www.grimnir.es/l/novelas-warhammer-fantasy-listado-completo-de-titulos/). Se excluyen todos los ómnibus y novelas de Gotrek y Félix de la búsqueda, así como títulos sin traducción española. Los libros de Thanquol deben comprobarse contra tu colección antes de comprar.
 
-## Warhammer — elfos oscuros, vampiros y Nagash
+### Skavens y elfos oscuros
 
-- 🔎 **Drachenfels** · objetivo <10 € · oferta: — · edición castellana: verificar.
+- 🔎 **El Vidente Gris** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **El Templo de la Serpiente** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **La maldición del demonio** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Tormenta de sangre** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Devorador de almas** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **La espada de disformidad** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **El señor de la destrucción** · edición castellana documentada · precio objetivo <10 € · oferta: —.
 
-## Warhammer — Imperio, Caos y Fin de los Tiempos
+### Elfos, enanos y no muertos
 
+- 🔎 **Malekith** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **El Rey Sombrío** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Caledor** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **La sangre de Aenarion** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Defensores de Ulthuan** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Los guardianes del bosque** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **El custodio de agravios** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **El quebrantador de juramentos** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Nagash el hechicero** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Nagash el invencible** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Nagash el inmortal** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Drachenfels** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Genevieve no muerta** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **La bestia de Altdorf** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Uñas de plata** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Herencia** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Dominio** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Venganza** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Hija de la sangre** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Forja de la sangre** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+
+### Imperio, Caos y antihéroes
+
+- 🔎 **Reiksguard** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Estigma de Condenación** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Estigma de Herejía** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **El azote de Valnir** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **La lanza rota** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Sangre corrupta** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **El embajador** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Los dientes de Ursun** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Heldenhammer** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Imperio** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **El Rey Dios** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Dinero sangriento** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Sangre y acero** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **La sangre del dragón** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Caos en el Imperio** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Cargamento maldito** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Asesinato en Marienburgo** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **El vino de los sueños** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **La marca del caos** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **La venganza de Gilead** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Los jinetes de la muerte** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Los martillos de Ulric** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Los muertos y los condenados** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Nigromante** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Tormenta mágica** · edición castellana documentada · precio objetivo <10 € · oferta: —.
 
 ## Fuera de Warhammer — protagonistas NO humanos
 
