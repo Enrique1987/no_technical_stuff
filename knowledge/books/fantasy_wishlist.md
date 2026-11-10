@@ -1,10 +1,12 @@
-# Catálogo de fantasía — seguimiento de compras
+# 🔎 Libros de fantasía por buscar
 
 **REGLA ABSOLUTA: solo libros físicos con edición YA PUBLICADA EN CASTELLANO.** Sin traducción española confirmada, no se recomienda ni se rastrea. Preferir segunda mano y ofertas <10 € con envío. Excluir ómnibus de Gotrek y Félix.
 
-**Estado:** 🔎 pendiente de encontrar. Cuando adquiera un libro, quitarlo de esta lista y añadirlo a [Mi biblioteca de fantasía](fantasy_library.md) con ✅. Registrar ofertas reales con enlaces, precios totales y fechas.
+**Organización:** [🔎 Lista de búsqueda](fantasy_wishlist.md) y [📚 Mi biblioteca con notas](fantasy_library.md) son archivos distintos. **Estado:** 🔎 pendiente de encontrar. Cuando adquiera un libro, quitarlo de esta lista y añadirlo a [Mi biblioteca de fantasía](fantasy_library.md) con ✅. Registrar ofertas reales con enlaces, precios totales y fechas.
 
-## Warhammer Fantasy — novelas publicadas en castellano
+## Warhammer Fantasy
+
+Novelas de este universo, excepto Gotrek y Félix.
 
 **Fuente de verificación:** [catálogo contrastado con Timun Mas/Minotauro](https://www.grimnir.es/l/novelas-warhammer-fantasy-listado-completo-de-titulos/). Se excluyen todos los ómnibus y novelas de Gotrek y Félix de la búsqueda, así como títulos sin traducción española. Los libros de Thanquol deben comprobarse contra tu colección antes de comprar.
 
@@ -69,7 +71,9 @@
 - 🔎 **Nigromante** · edición castellana documentada · precio objetivo <10 € · oferta: —.
 - 🔎 **Tormenta mágica** · edición castellana documentada · precio objetivo <10 € · oferta: —.
 
-## Fuera de Warhammer — protagonistas NO humanos
+## Fantasía — otros universos
+
+### Protagonistas no humanos
 
 - 🔎 **Las cinco estirpes** · objetivo <10 € · oferta: — · edición castellana: verificar.
 - 🔎 **La morada** · objetivo <10 € · oferta: — · edición castellana: verificar.
@@ -81,7 +85,7 @@
 - 🔎 **El emperador goblin** · objetivo <10 € · oferta: — · edición castellana: verificar.
 - 🔎 **Redwall** · objetivo <10 € · oferta: — · edición castellana: verificar.
 
-## Otras sagas — pólvora, amapola, Sanderson y Malaz
+### Sagas épicas, grimdark y fantasía moderna
 
 - 🔎 **Promesa de sangre** · objetivo <10 € · oferta: — · edición castellana: verificar.
 - 🔎 **La campaña escarlata** · objetivo <10 € · oferta: — · edición castellana: verificar.
@@ -100,13 +104,25 @@
 - 🔎 **La casa de cadenas** · objetivo <10 € · oferta: — · edición castellana: verificar.
 - 🔎 **Mareas de medianoche** · objetivo <10 € · oferta: — · edición castellana: verificar.
 
+
+### Tierra de Héroes — Richard Morgan (grimdark)
+
+- 🔎 **Sólo el acero** · Alamut · castellano y papel confirmados · objetivo <10 € · oferta: —.
+- 🔎 **El gélido mando** · Alamut · castellano y papel confirmados · objetivo <10 € · oferta: —.
+- 🔎 **La impía oscuridad** · Alamut · castellano y papel confirmados · objetivo <10 € · oferta: —.
+
+### El Imperio del Lobo — Richard Swan (fantasía oscura)
+
+- 🔎 **La justicia de los reyes** · edición física en castellano confirmada · objetivo <10 € · oferta: —.
+- 🔎 **La tiranía de la fe** · traducción española publicada; confirmar edición física antes de rastrear · objetivo <10 € · oferta: —.
+
 ## Comprobar antes de buscar
 
 - **Thanquol**: el usuario está leyendo la trilogía; comprobar cuáles posee.
 - **Mistborn**: comprobar volúmenes ya leídos o poseídos.
 - **Gotrek y Félix**: no buscar ómnibus.
 
-## Joe Abercrombie — El Mar Quebrado (faltan dos)
+### Joe Abercrombie — El Mar Quebrado (faltan dos)
 
 - 🔎 **Medio mundo** — Joe Abercrombie, El Mar Quebrado 2 · objetivo <10 € · oferta: —.
 - 🔎 **Media guerra** — Joe Abercrombie, El Mar Quebrado 3 · objetivo <10 € · oferta: —.
@@ -125,7 +141,7 @@
 | El exilio | 15,19 € Buscalibre usado | Sin confirmar | [Ver anuncio](https://www.buscalibre.es/libros/autor/salvatore-r?condition=used) |
 | La guerra de la amapola | 25,73 € Fnac ocasión | Sin confirmar | [Ver anuncio](https://www.fnac.es/c8441339/La-guerra-de-la-amapola) |
 
-## Nuevos candidatos — monstruos protagonistas (revisión 10-11-2026)
+### Monstruos protagonistas (revisión 10-11-2026)
 
 - 🔎 **La caza nocturna** — Alexandra Christo · criatura que se alimenta del miedo · castellano confirmado; tono juvenil/romántico.
 - 🔎 **La espada rota** — Poul Anderson · elfos y trolls; protagonista humano criado por elfos · castellano confirmado; encaje parcial.
@@ -138,7 +154,7 @@
 
 **Catálogo depurado provisionalmente: se han retirado títulos en inglés o de traducción no comprobada. Los títulos restantes deben verificarse individualmente antes de cualquier recomendación de compra.**
 
-## Exclusiones por idioma (no buscar)
+## Archivo de exclusiones por idioma (no buscar)
 
 Los siguientes títulos se han retirado preventivamente porque su edición española no está verificada. **No son compras pendientes** y solo se reconsiderarán si se confirma una edición publicada en castellano.
 
