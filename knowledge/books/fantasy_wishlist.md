@@ -112,10 +112,15 @@
 - **Mistborn**: comprobar volúmenes ya leídos o poseídos.
 - **Gotrek y Félix**: no buscar ómnibus.
 
+## Joe Abercrombie — El Mar Quebrado (faltan dos)
+
+- 🔎 **Medio mundo** — Joe Abercrombie, El Mar Quebrado 2 · objetivo <10 € · oferta: —.
+- 🔎 **Media guerra** — Joe Abercrombie, El Mar Quebrado 3 · objetivo <10 € · oferta: —.
+
 ## Registro de ofertas
 
 | Fecha | Libro | Tienda | Edición | Precio con envío | Enlace |
 |---|---|---|---|---|---|
 | — | — | — | — | — | — |
 
-**Total: 87 títulos o volúmenes candidatos.**
+**Total: 89 títulos o volúmenes candidatos.**
