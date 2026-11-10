@@ -13,7 +13,7 @@ Aquí guardo **únicamente los libros que ya tengo**, con mi **nota personal sob
 
 ## Joe Abercrombie — universo de La Primera Ley
 
-**Valoración personal de los nueve libros: 9,5/10 cada uno** (según lo indicado). **Media: 9,5/10**.
+**Valoración:** nueve novelas con 9,5/10 y *Filos mortales* con 8,5/10. **Media de los diez libros: 9,4/10**.
 
 | Estado | Título | Autor | Mi nota /10 | Saga |
 |---|---|---|---:|---|
@@ -26,6 +26,13 @@ Aquí guardo **únicamente los libros que ya tengo**, con mi **nota personal sob
 | ✅ | Un poco de odio | Joe Abercrombie | 9,5 | La Era de la Locura, 1 |
 | ✅ | El problema de la paz | Joe Abercrombie | 9,5 | La Era de la Locura, 2 |
 | ✅ | La sabiduría de las multitudes | Joe Abercrombie | 9,5 | La Era de la Locura, 3 |
+| ✅ 📖 | Filos mortales | Joe Abercrombie | 8,5 | Relatos de La Primera Ley |
+
+## Joe Abercrombie — Los diablos
+
+| Estado | Título | Autor | Mi nota /10 | Saga |
+|---|---|---|---:|---|
+| ✅ 📖 | Los diablos | Joe Abercrombie | 8,3 | Los diablos, 1 |
 
 ## Joe Abercrombie — El Mar Quebrado
 
@@ -38,4 +45,4 @@ Aquí guardo **únicamente los libros que ya tengo**, con mi **nota personal sob
 - Los ómnibus de Gotrek y Félix están **excluidos de las búsquedas**, pero aún no están inventariados como ejemplares poseídos.
 - Confirmar qué volúmenes de Thanquol, Mistborn y otras sagas tienes para completar tu biblioteca sin suponer posesión.
 
-> Esta lista registra propiedad, no lectura. Si en el futuro quieres marcar los libros leídos, podemos añadir 📖 sin cambiar el significado de ✅.
+> ✅ significa que ya lo tienes; 📖 indica lectura confirmada. La nota es tu valoración personal sobre 10. **Media de Abercrombie (11 libros valorados): 9,3/10**.
