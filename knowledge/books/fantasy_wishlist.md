@@ -76,9 +76,6 @@ Novelas de este universo, excepto Gotrek y Félix.
 ### Protagonistas no humanos
 
 - 🔎 **Las cinco estirpes** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **La morada** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **El exilio** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **El refugio** · objetivo <10 € · oferta: — · edición castellana: verificar.
 - 🔎 **Kaz el minotauro** · objetivo <10 € · oferta: — · edición castellana: verificar.
 - 🔎 **Elric de Melniboné** · objetivo <10 € · oferta: — · edición castellana: verificar.
 - 🔎 **Los elfos** · objetivo <10 € · oferta: — · edición castellana: verificar.
@@ -161,11 +158,9 @@ Novelas de este universo, excepto Gotrek y Félix.
 
 | Libro | Precio anunciado | Envío a Frankfurt | Enlace |
 |---|---|---|---|
-| La morada | 7,22 € Fnac ocasión | Sin confirmar | [Ver anuncio](https://www.fnac.es/a47346/R-A-Salvatore-La-morada) |
 | Kaz el minotauro | 2,59 € IberLibro usado | Sin confirmar | [Ver anuncio](https://www.iberlibro.com/9788448721299/Kaz-minotauro-Knaak-Richard-A-8448721292/plp) |
 | Medio mundo | 7,80 € IberLibro usado | Sin confirmar | [Ver anuncio](https://www.iberlibro.com/9788466341172/Medio-mundo-Best-Seller-Ficci%C3%B3n-846634117X/plp) |
 | Media guerra | 12,30 € Cyberdark nuevo | Sin confirmar | [Ver anuncio](https://tienda.cyberdark.net/joe-abercrombie-a8465.html) |
-| El exilio | 15,19 € Buscalibre usado | Sin confirmar | [Ver anuncio](https://www.buscalibre.es/libros/autor/salvatore-r?condition=used) |
 | La guerra de la amapola | 25,73 € Fnac ocasión | Sin confirmar | [Ver anuncio](https://www.fnac.es/c8441339/La-guerra-de-la-amapola) |
 
 ### Monstruos protagonistas (revisión 10-11-2026)
@@ -178,6 +173,8 @@ Novelas de este universo, excepto Gotrek y Félix.
 | Fecha | Libro | Tienda | Edición | Precio con envío | Enlace |
 |---|---|---|---|---|---|
 | — | — | — | — | — | — |
+
+**La trilogía El elfo oscuro (La morada, El exilio, El refugio) se ha trasladado a Mi biblioteca; no buscar.**
 
 **Catálogo depurado provisionalmente: se han retirado títulos en inglés o de traducción no comprobada. Los títulos restantes deben verificarse individualmente antes de cualquier recomendación de compra.**
 
