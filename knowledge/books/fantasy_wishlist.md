@@ -116,6 +116,33 @@ Novelas de este universo, excepto Gotrek y Félix.
 - 🔎 **La justicia de los reyes** · edición física en castellano confirmada · objetivo <10 € · oferta: —.
 - 🔎 **La tiranía de la fe** · traducción española publicada; confirmar edición física antes de rastrear · objetivo <10 € · oferta: —.
 
+## Alta fantasía — Age of Sigmar y otras sagas
+
+**Selección por afinidad:** solo novelas físicas con edición castellana documentada. La prioridad refleja tus gustos por razas no humanas, personajes grises, oscuridad y construcción de mundos. No comprar sin verificar el precio final. Los ómnibus de Gotrek y Félix de Warhammer Fantasy siguen excluidos; las novelas independientes de Gotrek en Age of Sigmar se mantienen como candidatas.
+
+### Warhammer Age of Sigmar
+
+- 🔎 **El rey Hueco** — John French · vampiro protagonista, prioridad muy alta · castellano (Minotauro) · oferta: —.
+- 🔎 **El reino muerto** — John French · continuación de Cado Ezechiar · castellano (Minotauro) · oferta: —.
+- 🔎 **Gloomspite** — Andy Clark · horror y goblins, prioridad muy alta · castellano (Minotauro) · oferta: —.
+- 🔎 **Guerras del alma** — Josh Reynolds · Sigmar contra Nagash, prioridad alta · castellano (Minotauro) · oferta: —.
+- 🔎 **Dominio** — Darius Hinks · fantasía bélica y Reinos Mortales · castellano (Minotauro) · oferta: —.
+- 🔎 **La puerta de los huesos** — Andy Clark · ejércitos y Caos · castellano (Minotauro) · oferta: —.
+- 🔎 **Las puertas de Azyr** — Chris Wraight · inicio del conflicto · castellano (Minotauro) · oferta: —.
+- 🔎 **Guerra por los Reinos Mortales (ómnibus)** — Josh Reynolds, Chris Wraight y Darius Hinks · edición castellana 2026 · contiene *Las puertas de Azyr*, *Guerras del alma* y *Dominio*: **alternativa a los tres individuales, no comprar duplicados** · oferta: —.
+- 🔎 **Realmslayer** — David Guymer · Gotrek en Age of Sigmar, edición castellana física 2025 · oferta: —.
+- 🔎 **Soulslayer** — Darius Hinks · Gotrek, edición castellana en catálogo · oferta: —.
+- 🔎 **Blightslayer** — Richard Strachan · Gotrek, edición castellana en catálogo · oferta: —.
+
+### Alta fantasía oscura fuera de Warhammer
+
+- 🔎 **La sombra de los dioses** — John Gwynne · dioses muertos, guerreros y venganza; encaje alto · edición física castellana Minotauro · oferta: —.
+- 🔎 **Príncipe de espinas** — Mark Lawrence · antihéroe cruel y política, grimdark; encaje muy alto · edición castellana física Nocturna 2026 · oferta: —.
+- 🔎 **El imperio del vampiro** — Jay Kristoff · vampiros, guerras y protagonista ambiguo; **precaución: no te gustó Nuncanoche del mismo autor** · edición castellana física Nocturna · oferta: —.
+- 🔎 **El imperio de los condenados** — Jay Kristoff · continuación; misma precaución · edición castellana física Nocturna · oferta: —.
+
+**Fuentes de edición castellana:** [Catálogo AoS](https://banduawargames.com/es/2605-novelas-age-of-sigmar), [ómnibus 2026](https://www.akiracomics.com/products/115178-warhammer-age-of-sigmar-guerra-por-los-reinos-mortales-omnibus-rustica.html), [Realmslayer](https://www.elkar.eus/es/liburu_fitxa/realmslayer/guymer-david/9788445018613), [La sombra de los dioses](https://www.casadellibro.com/libro-la-sombra-de-los-dioses-edicion-especial-cantos-tintados/9788445021637/18067505), [Príncipe de espinas](https://www.nocturnaediciones.com/libro/446/principe_espinas), [El imperio del vampiro](https://www.nocturnaediciones.com/libro/317/imperio_vampiro).
+
 ## Comprobar antes de buscar
 
 - **Thanquol**: el usuario está leyendo la trilogía; comprobar cuáles posee.
