@@ -2,7 +2,7 @@
 
 **Criterios:** libro físico en castellano, preferentemente segunda mano, ofertas <10 € con envío. Comprobar traducción y edición antes de comprar. **Excluir ómnibus de Gotrek y Félix**. Los títulos ingleses solo identifican libros cuya traducción debe verificarse.
 
-**Estado:** 🔎 lo estoy buscando · ✅ ya lo tengo. Registrar ofertas reales con enlaces, precios totales y fechas.
+**Estado:** 🔎 pendiente de encontrar. Cuando adquiera un libro, quitarlo de esta lista y añadirlo a [Mi biblioteca de fantasía](fantasy_library.md) con ✅. Registrar ofertas reales con enlaces, precios totales y fechas.
 
 ## Warhammer — skavens, goblins, enanos y elfos
 
@@ -105,12 +105,6 @@
 - 🔎 **Memorias de hielo** · objetivo <10 € · oferta: — · edición castellana: verificar.
 - 🔎 **La casa de cadenas** · objetivo <10 € · oferta: — · edición castellana: verificar.
 - 🔎 **Mareas de medianoche** · objetivo <10 € · oferta: — · edición castellana: verificar.
-
-## ✅ Ya los tengo — no buscar
-
-- ✅ **Orcos** (trilogía), Stan Nicholls — 6 €.
-- ✅ **El nombre del viento**, Patrick Rothfuss — 13 €.
-- ✅ **El temor de un hombre sabio**, Patrick Rothfuss — 7 €.
 
 ## Comprobar antes de buscar
 
