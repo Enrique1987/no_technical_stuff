@@ -131,10 +131,17 @@
 | El exilio | 15,19 € Buscalibre usado | Sin confirmar | [Ver anuncio](https://www.buscalibre.es/libros/autor/salvatore-r?condition=used) |
 | La guerra de la amapola | 25,73 € Fnac ocasión | Sin confirmar | [Ver anuncio](https://www.fnac.es/c8441339/La-guerra-de-la-amapola) |
 
+## Nuevos candidatos — monstruos protagonistas (revisión 10-11-2026)
+
+- 🔎 **Grunts!** — Mary Gentle · orcos, sátira oscura · **traducción al castellano no confirmada; no comprar en inglés**.
+- 🔎 **El Señor de los Demonios se jubila** — M. H. Foster · villano demoníaco · edición en castellano anunciada para noviembre de 2026; esperar gran descuento.
+- 🔎 **La caza nocturna** — Alexandra Christo · criatura que se alimenta del miedo · castellano confirmado; tono juvenil/romántico.
+- 🔎 **La espada rota** — Poul Anderson · elfos y trolls; protagonista humano criado por elfos · castellano confirmado; encaje parcial.
+
 ## Registro de ofertas
 
 | Fecha | Libro | Tienda | Edición | Precio con envío | Enlace |
 |---|---|---|---|---|---|
 | — | — | — | — | — | — |
 
-**Total: 89 títulos o volúmenes candidatos.**
+**Total: 93 títulos o volúmenes candidatos.**
