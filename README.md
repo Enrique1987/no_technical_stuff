@@ -6,9 +6,6 @@ My personal notebook for recipes, learning, health, training and everyday life o
 
 - **[Food](food/)** — recipes, healthy cooking, meal ideas and desserts.
 - **[Knowledge](knowledge/)** — languages, books, learning techniques and AI references.
-- **[📚 Biblioteca de fantasía](knowledge/books/fantasy_library.md)** — libros que tengo y mis notas.
-- **[🔎 Fantasía por buscar](knowledge/books/fantasy_wishlist.md)** — lista de deseos sin precios.
-- **[📖 Lecturas actuales](knowledge/books/README.md#leyendo-ahora)** — índice de lecturas y próximos libros.
 - **[Health](health/)** — general wellbeing, mobility and stretching.
 - **[Sports](sports/)** — martial arts, contact sports, calisthenics and conditioning.
 - **[Personal Life](personal-life/)** — parenting, hobbies and personal reflections.
