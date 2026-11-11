@@ -1,8 +1,8 @@
 # 🔎 Libros de fantasía por buscar
 
-**REGLA ABSOLUTA: solo libros físicos con edición YA PUBLICADA EN CASTELLANO.** Sin traducción española confirmada, no se recomienda ni se rastrea. Preferir segunda mano y ofertas <10 € con envío. Excluir ómnibus de Gotrek y Félix.
+**REGLA ABSOLUTA: solo libros físicos con edición YA PUBLICADA EN CASTELLANO.** Sin traducción española confirmada, no se recomienda ni se rastrea. Priorizar ediciones en castellano; el seguimiento de precios se gestiona fuera de este catálogo. Excluir ómnibus de Gotrek y Félix.
 
-**Organización:** [🔎 Lista de búsqueda](fantasy_wishlist.md) y [📚 Mi biblioteca con notas](fantasy_library.md) son archivos distintos. **Estado:** 🔎 pendiente de encontrar. Cuando adquiera un libro, quitarlo de esta lista y añadirlo a [Mi biblioteca de fantasía](fantasy_library.md) con ✅. Registrar ofertas reales con enlaces, precios totales y fechas.
+**Organización:** [🔎 Lista de búsqueda](fantasy_wishlist.md) y [📚 Mi biblioteca con notas](fantasy_library.md) son archivos distintos. **Estado:** 🔎 pendiente de encontrar. Cuando adquiera un libro, quitarlo de esta lista y añadirlo a [Mi biblioteca de fantasía](fantasy_library.md) con ✅.
 
 ## Warhammer Fantasy
 
@@ -12,131 +12,131 @@ Novelas de este universo, excepto Gotrek y Félix.
 
 ### Skavens y elfos oscuros
 
-- 🔎 **El Vidente Gris** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **El Templo de la Serpiente** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **La maldición del demonio** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Tormenta de sangre** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Devorador de almas** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **La espada de disformidad** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **El señor de la destrucción** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **El Vidente Gris** · edición castellana documentada.
+- 🔎 **El Templo de la Serpiente** · edición castellana documentada.
+- 🔎 **La maldición del demonio** · edición castellana documentada.
+- 🔎 **Tormenta de sangre** · edición castellana documentada.
+- 🔎 **Devorador de almas** · edición castellana documentada.
+- 🔎 **La espada de disformidad** · edición castellana documentada.
+- 🔎 **El señor de la destrucción** · edición castellana documentada.
 
 ### Elfos, enanos y no muertos
 
-- 🔎 **Malekith** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **El Rey Sombrío** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Caledor** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **La sangre de Aenarion** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Defensores de Ulthuan** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Los guardianes del bosque** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **El custodio de agravios** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **El quebrantador de juramentos** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Nagash el hechicero** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Nagash el invencible** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Nagash el inmortal** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Drachenfels** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Genevieve no muerta** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **La bestia de Altdorf** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Uñas de plata** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Herencia** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Dominio** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Venganza** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Hija de la sangre** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Forja de la sangre** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Malekith** · edición castellana documentada.
+- 🔎 **El Rey Sombrío** · edición castellana documentada.
+- 🔎 **Caledor** · edición castellana documentada.
+- 🔎 **La sangre de Aenarion** · edición castellana documentada.
+- 🔎 **Defensores de Ulthuan** · edición castellana documentada.
+- 🔎 **Los guardianes del bosque** · edición castellana documentada.
+- 🔎 **El custodio de agravios** · edición castellana documentada.
+- 🔎 **El quebrantador de juramentos** · edición castellana documentada.
+- 🔎 **Nagash el hechicero** · edición castellana documentada.
+- 🔎 **Nagash el invencible** · edición castellana documentada.
+- 🔎 **Nagash el inmortal** · edición castellana documentada.
+- 🔎 **Drachenfels** · edición castellana documentada.
+- 🔎 **Genevieve no muerta** · edición castellana documentada.
+- 🔎 **La bestia de Altdorf** · edición castellana documentada.
+- 🔎 **Uñas de plata** · edición castellana documentada.
+- 🔎 **Herencia** · edición castellana documentada.
+- 🔎 **Dominio** · edición castellana documentada.
+- 🔎 **Venganza** · edición castellana documentada.
+- 🔎 **Hija de la sangre** · edición castellana documentada.
+- 🔎 **Forja de la sangre** · edición castellana documentada.
 
 ### Imperio, Caos y antihéroes
 
-- 🔎 **Reiksguard** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Estigma de Condenación** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Estigma de Herejía** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **El azote de Valnir** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **La lanza rota** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Sangre corrupta** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **El embajador** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Los dientes de Ursun** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Heldenhammer** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Imperio** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **El Rey Dios** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Dinero sangriento** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Sangre y acero** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **La sangre del dragón** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Caos en el Imperio** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Cargamento maldito** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Asesinato en Marienburgo** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **El vino de los sueños** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **La marca del caos** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **La venganza de Gilead** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Los jinetes de la muerte** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Los martillos de Ulric** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Los muertos y los condenados** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Nigromante** · edición castellana documentada · precio objetivo <10 € · oferta: —.
-- 🔎 **Tormenta mágica** · edición castellana documentada · precio objetivo <10 € · oferta: —.
+- 🔎 **Reiksguard** · edición castellana documentada.
+- 🔎 **Estigma de Condenación** · edición castellana documentada.
+- 🔎 **Estigma de Herejía** · edición castellana documentada.
+- 🔎 **El azote de Valnir** · edición castellana documentada.
+- 🔎 **La lanza rota** · edición castellana documentada.
+- 🔎 **Sangre corrupta** · edición castellana documentada.
+- 🔎 **El embajador** · edición castellana documentada.
+- 🔎 **Los dientes de Ursun** · edición castellana documentada.
+- 🔎 **Heldenhammer** · edición castellana documentada.
+- 🔎 **Imperio** · edición castellana documentada.
+- 🔎 **El Rey Dios** · edición castellana documentada.
+- 🔎 **Dinero sangriento** · edición castellana documentada.
+- 🔎 **Sangre y acero** · edición castellana documentada.
+- 🔎 **La sangre del dragón** · edición castellana documentada.
+- 🔎 **Caos en el Imperio** · edición castellana documentada.
+- 🔎 **Cargamento maldito** · edición castellana documentada.
+- 🔎 **Asesinato en Marienburgo** · edición castellana documentada.
+- 🔎 **El vino de los sueños** · edición castellana documentada.
+- 🔎 **La marca del caos** · edición castellana documentada.
+- 🔎 **La venganza de Gilead** · edición castellana documentada.
+- 🔎 **Los jinetes de la muerte** · edición castellana documentada.
+- 🔎 **Los martillos de Ulric** · edición castellana documentada.
+- 🔎 **Los muertos y los condenados** · edición castellana documentada.
+- 🔎 **Nigromante** · edición castellana documentada.
+- 🔎 **Tormenta mágica** · edición castellana documentada.
 
 ## Fantasía — otros universos
 
 ### Protagonistas no humanos
 
-- 🔎 **Las cinco estirpes** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Kaz el minotauro** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Elric de Melniboné** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Los elfos** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **El emperador goblin** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Redwall** · objetivo <10 € · oferta: — · edición castellana: verificar.
+- 🔎 **Las cinco estirpes** · edición castellana: verificar.
+- 🔎 **Kaz el minotauro** · edición castellana: verificar.
+- 🔎 **Elric de Melniboné** · edición castellana: verificar.
+- 🔎 **Los elfos** · edición castellana: verificar.
+- 🔎 **El emperador goblin** · edición castellana: verificar.
+- 🔎 **Redwall** · edición castellana: verificar.
 
 ### Sagas épicas, grimdark y fantasía moderna
 
-- 🔎 **Promesa de sangre** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **La campaña escarlata** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **La república de otoño** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **La guerra de la amapola** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **La república del dragón** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **El dios en llamas** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **El camino de los reyes** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Palabras radiantes** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Juramentada** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **El ritmo de la guerra** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Viento y verdad** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Los jardines de la luna** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Las puertas de la Casa de la Muerte** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Memorias de hielo** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **La casa de cadenas** · objetivo <10 € · oferta: — · edición castellana: verificar.
-- 🔎 **Mareas de medianoche** · objetivo <10 € · oferta: — · edición castellana: verificar.
+- 🔎 **Promesa de sangre** · edición castellana: verificar.
+- 🔎 **La campaña escarlata** · edición castellana: verificar.
+- 🔎 **La república de otoño** · edición castellana: verificar.
+- 🔎 **La guerra de la amapola** · edición castellana: verificar.
+- 🔎 **La república del dragón** · edición castellana: verificar.
+- 🔎 **El dios en llamas** · edición castellana: verificar.
+- 🔎 **El camino de los reyes** · edición castellana: verificar.
+- 🔎 **Palabras radiantes** · edición castellana: verificar.
+- 🔎 **Juramentada** · edición castellana: verificar.
+- 🔎 **El ritmo de la guerra** · edición castellana: verificar.
+- 🔎 **Viento y verdad** · edición castellana: verificar.
+- 🔎 **Los jardines de la luna** · edición castellana: verificar.
+- 🔎 **Las puertas de la Casa de la Muerte** · edición castellana: verificar.
+- 🔎 **Memorias de hielo** · edición castellana: verificar.
+- 🔎 **La casa de cadenas** · edición castellana: verificar.
+- 🔎 **Mareas de medianoche** · edición castellana: verificar.
 
 
 ### Tierra de Héroes — Richard Morgan (grimdark)
 
-- 🔎 **Sólo el acero** · Alamut · castellano y papel confirmados · objetivo <10 € · oferta: —.
-- 🔎 **El gélido mando** · Alamut · castellano y papel confirmados · objetivo <10 € · oferta: —.
-- 🔎 **La impía oscuridad** · Alamut · castellano y papel confirmados · objetivo <10 € · oferta: —.
+- 🔎 **Sólo el acero** · Alamut · castellano y papel confirmados.
+- 🔎 **El gélido mando** · Alamut · castellano y papel confirmados.
+- 🔎 **La impía oscuridad** · Alamut · castellano y papel confirmados.
 
 ### El Imperio del Lobo — Richard Swan (fantasía oscura)
 
-- 🔎 **La justicia de los reyes** · edición física en castellano confirmada · objetivo <10 € · oferta: —.
-- 🔎 **La tiranía de la fe** · traducción española publicada; confirmar edición física antes de rastrear · objetivo <10 € · oferta: —.
+- 🔎 **La justicia de los reyes** · edición física en castellano confirmada.
+- 🔎 **La tiranía de la fe** · traducción española publicada; confirmar edición física antes de rastrear.
 
 ## Alta fantasía — Age of Sigmar y otras sagas
 
-**Selección por afinidad:** solo novelas físicas con edición castellana documentada. La prioridad refleja tus gustos por razas no humanas, personajes grises, oscuridad y construcción de mundos. No comprar sin verificar el precio final. Los ómnibus de Gotrek y Félix de Warhammer Fantasy siguen excluidos; las novelas independientes de Gotrek en Age of Sigmar se mantienen como candidatas.
+**Selección por afinidad:** solo novelas físicas con edición castellana documentada. La prioridad refleja tus gustos por razas no humanas, personajes grises, oscuridad y construcción de mundos. No añadir títulos sin edición castellana confirmada. Los ómnibus de Gotrek y Félix de Warhammer Fantasy siguen excluidos; las novelas independientes de Gotrek en Age of Sigmar se mantienen como candidatas.
 
 ### Warhammer Age of Sigmar
 
-- 🔎 **El rey Hueco** — John French · vampiro protagonista, prioridad muy alta · castellano (Minotauro) · oferta: —.
-- 🔎 **El reino muerto** — John French · continuación de Cado Ezechiar · castellano (Minotauro) · oferta: —.
-- 🔎 **Gloomspite** — Andy Clark · horror y goblins, prioridad muy alta · castellano (Minotauro) · oferta: —.
-- 🔎 **Guerras del alma** — Josh Reynolds · Sigmar contra Nagash, prioridad alta · castellano (Minotauro) · oferta: —.
-- 🔎 **Dominio** — Darius Hinks · fantasía bélica y Reinos Mortales · castellano (Minotauro) · oferta: —.
-- 🔎 **La puerta de los huesos** — Andy Clark · ejércitos y Caos · castellano (Minotauro) · oferta: —.
-- 🔎 **Las puertas de Azyr** — Chris Wraight · inicio del conflicto · castellano (Minotauro) · oferta: —.
-- 🔎 **Guerra por los Reinos Mortales (ómnibus)** — Josh Reynolds, Chris Wraight y Darius Hinks · edición castellana 2026 · contiene *Las puertas de Azyr*, *Guerras del alma* y *Dominio*: **alternativa a los tres individuales, no comprar duplicados** · oferta: —.
-- 🔎 **Realmslayer** — David Guymer · Gotrek en Age of Sigmar, edición castellana física 2025 · oferta: —.
-- 🔎 **Soulslayer** — Darius Hinks · Gotrek, edición castellana en catálogo · oferta: —.
-- 🔎 **Blightslayer** — Richard Strachan · Gotrek, edición castellana en catálogo · oferta: —.
+- 🔎 **El rey Hueco** — John French · vampiro protagonista, prioridad muy alta · castellano (Minotauro).
+- 🔎 **El reino muerto** — John French · continuación de Cado Ezechiar · castellano (Minotauro).
+- 🔎 **Gloomspite** — Andy Clark · horror y goblins, prioridad muy alta · castellano (Minotauro).
+- 🔎 **Guerras del alma** — Josh Reynolds · Sigmar contra Nagash, prioridad alta · castellano (Minotauro).
+- 🔎 **Dominio** — Darius Hinks · fantasía bélica y Reinos Mortales · castellano (Minotauro).
+- 🔎 **La puerta de los huesos** — Andy Clark · ejércitos y Caos · castellano (Minotauro).
+- 🔎 **Las puertas de Azyr** — Chris Wraight · inicio del conflicto · castellano (Minotauro).
+- 🔎 **Guerra por los Reinos Mortales (ómnibus)** — Josh Reynolds, Chris Wraight y Darius Hinks · edición castellana 2026 · contiene *Las puertas de Azyr*, *Guerras del alma* y *Dominio*: **alternativa a los tres individuales, no comprar duplicados**.
+- 🔎 **Realmslayer** — David Guymer · Gotrek en Age of Sigmar, edición castellana física 2025.
+- 🔎 **Soulslayer** — Darius Hinks · Gotrek, edición castellana en catálogo.
+- 🔎 **Blightslayer** — Richard Strachan · Gotrek, edición castellana en catálogo.
 
 ### Alta fantasía oscura fuera de Warhammer
 
-- 🔎 **La sombra de los dioses** — John Gwynne · dioses muertos, guerreros y venganza; encaje alto · edición física castellana Minotauro · oferta: —.
-- 🔎 **Príncipe de espinas** — Mark Lawrence · antihéroe cruel y política, grimdark; encaje muy alto · edición castellana física Nocturna 2026 · oferta: —.
-- 🔎 **El imperio del vampiro** — Jay Kristoff · vampiros, guerras y protagonista ambiguo; **precaución: no te gustó Nuncanoche del mismo autor** · edición castellana física Nocturna · oferta: —.
-- 🔎 **El imperio de los condenados** — Jay Kristoff · continuación; misma precaución · edición castellana física Nocturna · oferta: —.
+- 🔎 **La sombra de los dioses** — John Gwynne · dioses muertos, guerreros y venganza; encaje alto · edición física castellana Minotauro.
+- 🔎 **Príncipe de espinas** — Mark Lawrence · antihéroe cruel y política, grimdark; encaje muy alto · edición castellana física Nocturna 2026.
+- 🔎 **El imperio del vampiro** — Jay Kristoff · vampiros, guerras y protagonista ambiguo; **precaución: no te gustó Nuncanoche del mismo autor** · edición castellana física Nocturna.
+- 🔎 **El imperio de los condenados** — Jay Kristoff · continuación; misma precaución · edición castellana física Nocturna.
 
 **Fuentes de edición castellana:** [Catálogo AoS](https://banduawargames.com/es/2605-novelas-age-of-sigmar), [ómnibus 2026](https://www.akiracomics.com/products/115178-warhammer-age-of-sigmar-guerra-por-los-reinos-mortales-omnibus-rustica.html), [Realmslayer](https://www.elkar.eus/es/liburu_fitxa/realmslayer/guymer-david/9788445018613), [La sombra de los dioses](https://www.casadellibro.com/libro-la-sombra-de-los-dioses-edicion-especial-cantos-tintados/9788445021637/18067505), [Príncipe de espinas](https://www.nocturnaediciones.com/libro/446/principe_espinas), [El imperio del vampiro](https://www.nocturnaediciones.com/libro/317/imperio_vampiro).
 
@@ -148,8 +148,8 @@ Novelas de este universo, excepto Gotrek y Félix.
 
 ### Joe Abercrombie — El Mar Quebrado (faltan dos)
 
-- 🔎 **Medio mundo** — Joe Abercrombie, El Mar Quebrado 2 · objetivo <10 € · oferta: —.
-- 🔎 **Media guerra** — Joe Abercrombie, El Mar Quebrado 3 · objetivo <10 € · oferta: —.
+- 🔎 **Medio mundo** — Joe Abercrombie, El Mar Quebrado 2.
+- 🔎 **Media guerra** — Joe Abercrombie, El Mar Quebrado 3.
 
 
 ## Primer rastreo — 10 noviembre 2026
@@ -167,16 +167,6 @@ Novelas de este universo, excepto Gotrek y Félix.
 
 - 🔎 **La caza nocturna** — Alexandra Christo · criatura que se alimenta del miedo · castellano confirmado; tono juvenil/romántico.
 - 🔎 **La espada rota** — Poul Anderson · elfos y trolls; protagonista humano criado por elfos · castellano confirmado; encaje parcial.
-
-## Registro de ofertas
-
-| Fecha | Libro | Tienda | Edición | Precio con envío | Enlace |
-|---|---|---|---|---|---|
-| — | — | — | — | — | — |
-
-**La trilogía El elfo oscuro (La morada, El exilio, El refugio) se ha trasladado a Mi biblioteca; no buscar.**
-
-**Catálogo depurado provisionalmente: se han retirado títulos en inglés o de traducción no comprobada. Los títulos restantes deben verificarse individualmente antes de cualquier recomendación de compra.**
 
 ## Archivo de exclusiones por idioma (no buscar)
 
