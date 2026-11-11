@@ -38,7 +38,7 @@ Aquí guardo **únicamente los libros que ya tengo**, con mi **nota personal sob
 
 | Estado | Título | Autor | Mi nota /10 | Saga |
 |---|---|---|---:|---|
-| ✅ | Medio rey | Joe Abercrombie | — | El Mar Quebrado, 1 |
+| ✅ 📖 | Medio rey | Joe Abercrombie | 9,0 | El Mar Quebrado, 1 |
 
 
 ## R. A. Salvatore — El elfo oscuro (edición de coleccionista)
@@ -51,9 +51,19 @@ Aquí guardo **únicamente los libros que ya tengo**, con mi **nota personal sob
 | ✅ | El exilio | R. A. Salvatore | — | Pendiente | Coleccionista |
 | ✅ | El refugio | R. A. Salvatore | — | Pendiente | Coleccionista |
 
+## Brandon Sanderson — Mistborn (Nacidos de la Bruma)
+
+**Primera era:** los tres primeros leídos y valorados con **9,4/10 cada uno**. Posesión física por confirmar; no marcarlos como ejemplares propios sin confirmación.
+
+| Lectura | Título | Autor | Mi nota /10 | Posesión física |
+|---|---|---|---:|---|
+| 📖 | El imperio final | Brandon Sanderson | 9,4 | Por confirmar |
+| 📖 | El pozo de la ascensión | Brandon Sanderson | 9,4 | Por confirmar |
+| 📖 | El héroe de las eras | Brandon Sanderson | 9,4 | Por confirmar |
+
 ## Pendiente de inventariar
 
 - Los ómnibus de Gotrek y Félix están **excluidos de las búsquedas**, pero aún no están inventariados como ejemplares poseídos.
 - Confirmar qué volúmenes de Thanquol, Mistborn y otras sagas tienes para completar tu biblioteca sin suponer posesión.
 
-> ✅ significa que ya lo tienes; 📖 indica lectura confirmada. La nota es tu valoración personal sobre 10. **Media de Abercrombie (11 libros valorados, incluyendo *Los diablos*): 9,25/10**..
+> ✅ significa que ya lo tienes; 📖 indica lectura confirmada. La nota es tu valoración personal sobre 10. **Media de Abercrombie (11 libros valorados, incluyendo *Los diablos*): 9,23/10** (incluyendo *Medio rey*, ahora valorado).
