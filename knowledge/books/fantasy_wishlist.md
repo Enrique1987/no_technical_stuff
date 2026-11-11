@@ -84,6 +84,8 @@ Novelas de este universo, excepto Gotrek y Félix.
 
 ### Sagas épicas, grimdark y fantasía moderna
 
+**Archivo de las Tormentas:** ya están incluidos los cinco volúmenes principales publicados en castellano (*El camino de los reyes*, *Palabras radiantes*, *Juramentada*, *El ritmo de la guerra* y *Viento y verdad*). No duplicarlos.
+
 - 🔎 **Promesa de sangre** · edición castellana: verificar.
 - 🔎 **La campaña escarlata** · edición castellana: verificar.
 - 🔎 **La república de otoño** · edición castellana: verificar.
@@ -101,6 +103,16 @@ Novelas de este universo, excepto Gotrek y Félix.
 - 🔎 **La casa de cadenas** · edición castellana: verificar.
 - 🔎 **Mareas de medianoche** · edición castellana: verificar.
 
+
+### Mistborn — Nacidos de la Bruma (Brandon Sanderson)
+
+**Primera era:** *El imperio final*, *El pozo de la ascensión* y *El héroe de las eras* ya leídos (9,4/10 cada uno). **Comprobar si tienes ejemplares físicos antes de buscarlos**; no duplicar.
+
+- 🔎 **Aleación de ley** — Era 2, libro 1 · edición castellana.
+- 🔎 **Sombras de identidad** — Era 2, libro 2 · edición castellana.
+- 🔎 **Brazales de duelo** — Era 2, libro 3 · edición castellana.
+- 🔎 **El metal perdido** — Era 2, libro 4 · edición castellana.
+- 🔎 **Historia secreta** — novela corta de Mistborn · buscar edición física castellana (por ejemplo en *Arcanum ilimitado*); evitar duplicados.
 
 ### Tierra de Héroes — Richard Morgan (grimdark)
 
