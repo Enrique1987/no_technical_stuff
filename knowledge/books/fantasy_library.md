@@ -13,16 +13,16 @@ Aquí guardo **únicamente los libros que ya tengo**, con mi **nota personal sob
 
 ## Joe Abercrombie — universo de La Primera Ley
 
-**Valoración:** nueve novelas con 9,5/10 y *Filos mortales* con 8,5/10. **Media de los diez libros: 9,4/10**.
+**Valoraciones personales:** trilogía original 9,6/10; novelas independientes 9,1–9,3/10; *La Era de la Locura* 9,5/10; *Filos mortales* 8,5/10. **Media de los diez libros: 9,35/10**.
 
 | Estado | Título | Autor | Mi nota /10 | Saga |
 |---|---|---|---:|---|
-| ✅ | La voz de las espadas | Joe Abercrombie | 9,5 | La Primera Ley, 1 |
-| ✅ | Antes de que los cuelguen | Joe Abercrombie | 9,5 | La Primera Ley, 2 |
-| ✅ | El último argumento de los reyes | Joe Abercrombie | 9,5 | La Primera Ley, 3 |
-| ✅ | La mejor venganza | Joe Abercrombie | 9,5 | Novela independiente |
-| ✅ | Los héroes | Joe Abercrombie | 9,5 | Novela independiente |
-| ✅ | Tierras rojas | Joe Abercrombie | 9,5 | Novela independiente |
+| ✅ | La voz de las espadas | Joe Abercrombie | 9,6 | La Primera Ley, 1 |
+| ✅ | Antes de que los cuelguen | Joe Abercrombie | 9,6 | La Primera Ley, 2 |
+| ✅ | El último argumento de los reyes | Joe Abercrombie | 9,6 | La Primera Ley, 3 |
+| ✅ | La mejor venganza | Joe Abercrombie | 9,1 | Novela independiente |
+| ✅ | Los héroes | Joe Abercrombie | 9,2 | Novela independiente |
+| ✅ | Tierras rojas | Joe Abercrombie | 9,3 | Novela independiente |
 | ✅ | Un poco de odio | Joe Abercrombie | 9,5 | La Era de la Locura, 1 |
 | ✅ | El problema de la paz | Joe Abercrombie | 9,5 | La Era de la Locura, 2 |
 | ✅ | La sabiduría de las multitudes | Joe Abercrombie | 9,5 | La Era de la Locura, 3 |
@@ -56,4 +56,4 @@ Aquí guardo **únicamente los libros que ya tengo**, con mi **nota personal sob
 - Los ómnibus de Gotrek y Félix están **excluidos de las búsquedas**, pero aún no están inventariados como ejemplares poseídos.
 - Confirmar qué volúmenes de Thanquol, Mistborn y otras sagas tienes para completar tu biblioteca sin suponer posesión.
 
-> ✅ significa que ya lo tienes; 📖 indica lectura confirmada. La nota es tu valoración personal sobre 10. **Media de Abercrombie (11 libros valorados): 9,3/10**.
+> ✅ significa que ya lo tienes; 📖 indica lectura confirmada. La nota es tu valoración personal sobre 10. **Media de Abercrombie (11 libros valorados, incluyendo *Los diablos*): 9,25/10**..
