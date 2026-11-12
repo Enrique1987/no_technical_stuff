@@ -53,9 +53,6 @@ Novelas de este universo, excepto Gotrek y Félix.
 - 🔎 **Sangre corrupta** · edición castellana documentada.
 - 🔎 **El embajador** · edición castellana documentada.
 - 🔎 **Los dientes de Ursun** · edición castellana documentada.
-- 🔎 **Heldenhammer** · edición castellana documentada.
-- 🔎 **Imperio** · edición castellana documentada.
-- 🔎 **El Rey Dios** · edición castellana documentada.
 - 🔎 **Dinero sangriento** · edición castellana documentada.
 - 🔎 **Sangre y acero** · edición castellana documentada.
 - 🔎 **La sangre del dragón** · edición castellana documentada.
