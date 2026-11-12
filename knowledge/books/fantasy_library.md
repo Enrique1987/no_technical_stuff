@@ -63,11 +63,15 @@ Aquí guardo **únicamente los libros físicos que ya tengo**. **Todo libro con 
 
 ## Warhammer Fantasy — El Fin de los Tiempos
 
-**Estado:** ✅ Los cinco volúmenes de la colección en casa · 📚 Pendientes de leer. Edición y títulos individuales por confirmar para no inventariar incorrectamente.
+**Estado:** los cinco libros físicos están en tu biblioteca de casa, pendientes de leer y sin nota todavía. Títulos y autores según la edición castellana de Minotauro.
 
-| Estado | Colección | Cantidad | Lectura | Mi nota /10 |
-|---|---|---:|---|---:|
-| ✅ | El Fin de los Tiempos (colección de cinco libros) | 5 | Pendiente | — |
+| Estado | Nº | Título | Autor | Mi nota /10 |
+|---|---:|---|---|---:|
+| ✅ 📚 | 1/5 | El retorno de Nagash | Josh Reynolds | — |
+| ✅ 📚 | 2/5 | La caída de Altdorf | Chris Wraight | — |
+| ✅ 📚 | 3/5 | La maldición de Khaine | Gav Thorpe | — |
+| ✅ 📚 | 4/5 | La rebelión de la Rata Cornuda | Guy Haley | — |
+| ✅ 📚 | 5/5 | El Señor del Fin de los Tiempos | Josh Reynolds | — |
 
 ## Warhammer Fantasy — Trilogía de Sigmar
 
@@ -95,7 +99,7 @@ Aquí guardo **únicamente los libros físicos que ya tengo**. **Todo libro con 
 
 ## Pendiente de inventariar
 
-- Identificar la otra trilogía de Warhammer que tienes comprada y confirmar los títulos/edición de los cinco libros de El Fin de los Tiempos.
+- Identificar la otra trilogía de Warhammer que tienes comprada y los títulos de la otra trilogía de Warhammer.
 - Los ómnibus de Gotrek y Félix están **excluidos de las búsquedas**, pero aún no están inventariados como ejemplares poseídos.
 - Confirmar qué volúmenes de Thanquol y otras sagas tienes para completar tu biblioteca sin suponer posesión.
 
