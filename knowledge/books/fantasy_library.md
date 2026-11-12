@@ -61,8 +61,41 @@ Aquí guardo **únicamente los libros que ya tengo**, con mi **nota personal sob
 | 📖 | El pozo de la ascensión | Brandon Sanderson | 9,4 | Por confirmar |
 | 📖 | El héroe de las eras | Brandon Sanderson | 9,4 | Por confirmar |
 
+## Warhammer Fantasy — El Fin de los Tiempos
+
+**Estado:** ✅ Los cinco volúmenes de la colección en casa · 📚 Pendientes de leer. Edición y títulos individuales por confirmar para no inventariar incorrectamente.
+
+| Estado | Colección | Cantidad | Lectura | Mi nota /10 |
+|---|---|---:|---|---:|
+| ✅ | El Fin de los Tiempos (colección de cinco libros) | 5 | Pendiente | — |
+
+## Warhammer Fantasy — Trilogía de Sigmar
+
+**Estado:** ✅ Trilogía completa en casa · 📚 Pendiente de leer.
+
+| Estado | Título | Autor | Lectura | Mi nota /10 |
+|---|---|---|---|---:|
+| ✅ | Heldenhammer | Graham McNeill | Pendiente | — |
+| ✅ | Imperio | Graham McNeill | Pendiente | — |
+| ✅ | El Rey Dios | Graham McNeill | Pendiente | — |
+
+**Otra trilogía de Warhammer:** has indicado que la tienes comprada y pendiente de leer, pero todavía no has identificado cuál es. No se añaden títulos ni cantidad adicional al inventario hasta identificarla.
+
+## Pedro Urvi — El sendero del guardabosques
+
+**Lectura:** 📖 Cinco primeros leídos. **Posesión física por confirmar**; las valoraciones no implican que poseas ejemplares en papel. Abandonaste la saga por repetición y tono demasiado juvenil.
+
+| Lectura | Título | Autor | Mi nota /10 | Posesión física |
+|---|---|---|---:|---|
+| 📖 | El hijo del traidor | Pedro Urvi | 8,8 | Por confirmar |
+| 📖 | El secreto del rey | Pedro Urvi | 8,6 | Por confirmar |
+| 📖 | El misterio de la tundra | Pedro Urvi | 8,5 | Por confirmar |
+| 📖 | Traición en el norte | Pedro Urvi | 8,5 | Por confirmar |
+| 📖 | El refugio secreto | Pedro Urvi | 6,5 | Por confirmar |
+
 ## Pendiente de inventariar
 
+- Identificar la otra trilogía de Warhammer que tienes comprada y confirmar los títulos/edición de los cinco libros de El Fin de los Tiempos.
 - Los ómnibus de Gotrek y Félix están **excluidos de las búsquedas**, pero aún no están inventariados como ejemplares poseídos.
 - Confirmar qué volúmenes de Thanquol, Mistborn y otras sagas tienes para completar tu biblioteca sin suponer posesión.
 
