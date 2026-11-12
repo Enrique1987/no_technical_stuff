@@ -14,6 +14,7 @@
 ## 📚 Índice de la colección
 
 - [Mi biblioteca de fantasía](fantasy_library.md) — ejemplares que ya tengo, lectura y notas personales.
+- [Novela histórica — biblioteca y notas](historical_library.md) — Posteguillo, Escipión, Trajano y Julio César.
 - [Libros de fantasía por buscar](fantasy_wishlist.md) — wishlist sin precios.
 
 ## Después, posibles lecturas
