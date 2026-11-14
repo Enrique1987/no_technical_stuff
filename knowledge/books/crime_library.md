@@ -10,26 +10,26 @@ Registro de **libros físicos** de novela negra, siguiendo el mismo criterio que
 
 | N.º | Estado | Título | Autor | Mi nota /10 | Notas |
 |---:|---|---|---|---:|---|
-| 1 | ❌ (provisional) | Violetas de marzo | Philip Kerr | — | — |
-| 2 | ❌ (provisional) | Pálido criminal | Philip Kerr | — | — |
-| 3 | ❌ (provisional) | Réquiem alemán | Philip Kerr | — | — |
-| 4 | ❌ (provisional) | Unos por otros | Philip Kerr | — | — |
-| 5 | ❌ (provisional) | Una llama misteriosa | Philip Kerr | — | — |
-| 6 | ❌ (provisional) | Si los muertos no resucitan | Philip Kerr | — | — |
-| 7 | ❌ (provisional) | Gris de campaña | Philip Kerr | — | — |
-| 8 | ❌ (provisional) | Praga mortal | Philip Kerr | — | — |
-| 9 | ❌ (provisional) | Un hombre sin aliento | Philip Kerr | — | — |
-| 10 | ❌ (provisional) | La dama de Zagreb | Philip Kerr | — | — |
+| 1 | ✅ | Violetas de marzo | Philip Kerr | — | — |
+| 2 | ✅ | Pálido criminal | Philip Kerr | — | — |
+| 3 | ✅ | Réquiem alemán | Philip Kerr | — | — |
+| 4 | ✅ | Unos por otros | Philip Kerr | — | — |
+| 5 | ✅ | Una llama misteriosa | Philip Kerr | — | — |
+| 6 | ✅ | Si los muertos no resucitan | Philip Kerr | — | — |
+| 7 | ✅ | Gris de campaña | Philip Kerr | — | — |
+| 8 | ✅ | Praga mortal | Philip Kerr | — | — |
+| 9 | ✅ | Un hombre sin aliento | Philip Kerr | — | — |
+| 10 | ✅ | La dama de Zagreb | Philip Kerr | — | — |
 | 11 | ❌ (provisional) | El otro lado del silencio | Philip Kerr | — | — |
-| 12 | ❌ (provisional) | Azul de Prusia | Philip Kerr | — | — |
-| 13 | ❌ (provisional) | Laberinto griego | Philip Kerr | — | — |
-| 14 | ❌ (provisional) | Metrópolis | Philip Kerr | — | — |
+| 12 | ✅ | Azul de Prusia | Philip Kerr | — | — |
+| 13 | ✅ | Laberinto griego | Philip Kerr | — | — |
+| 14 | ✅ | Metrópolis | Philip Kerr | — | — |
 
 ### Control de colección
 
 - **Total de novelas:** 14
-- **Ejemplares confirmados:** pendiente de inventario.
-- **Libros que faltan:** pendiente de confirmar.
+- **Ejemplares confirmados:** 13 de 14.
+- **Libros que faltan:** *El otro lado del silencio* (❌ provisional; pendiente de confirmación).
 - **Valoraciones:** solo se anotarán las proporcionadas por mí.
 - **Ediciones recopilatorias:** si tengo un volumen con varias novelas, identificar los títulos incluidos sin contar dos veces las mismas obras.
 
