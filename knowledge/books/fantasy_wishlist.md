@@ -117,10 +117,6 @@ Novelas de este universo, excepto Gotrek y Félix.
 - 🔎 **El ritmo de la guerra** · edición castellana: verificar.
 - 🔎 **Viento y verdad** · edición castellana: verificar.
 - 🔎 **Los jardines de la luna** · edición castellana: verificar.
-- 🔎 **Las puertas de la Casa de la Muerte** · edición castellana: verificar.
-- 🔎 **Memorias de hielo** · edición castellana: verificar.
-- 🔎 **La casa de cadenas** · edición castellana: verificar.
-- 🔎 **Mareas de medianoche** · edición castellana: verificar.
 
 
 ### Mistborn — Nacidos de la Bruma (Brandon Sanderson)
