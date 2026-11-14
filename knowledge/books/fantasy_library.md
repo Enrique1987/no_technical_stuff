@@ -61,29 +61,11 @@ Aquí guardo **únicamente los libros físicos que ya tengo**. **Todo libro con 
 | ✅ 📖 | El pozo de la ascensión | Brandon Sanderson | 9,4 | Papel |
 | ✅ 📖 | El héroe de las eras | Brandon Sanderson | 9,4 | Papel |
 
-## Warhammer Fantasy — El Fin de los Tiempos
+## Warhammer collection
 
-**Estado:** los cinco libros físicos están en tu biblioteca de casa, pendientes de leer y sin nota todavía. Títulos y autores según la edición castellana de Minotauro.
+The [Warhammer collection](fantasía/warhammer-fantasy/coleccion.md) is the canonical record for physical ownership, digital availability and purchases. It records all five End Times novels, the complete Sigmar and Sundering trilogies, and Gotrek and Felix omnibus 2 as received. Omnibus 3 is purchased with receipt pending; volumes 1, 4, 5 and 6 remain planned with ownership unconfirmed.
 
-| Estado | Nº | Título | Autor | Mi nota /10 |
-|---|---:|---|---|---:|
-| ✅ 📚 | 1/5 | El retorno de Nagash | Josh Reynolds | — |
-| ✅ 📚 | 2/5 | La caída de Altdorf | Chris Wraight | — |
-| ✅ 📚 | 3/5 | La maldición de Khaine | Gav Thorpe | — |
-| ✅ 📚 | 4/5 | La rebelión de la Rata Cornuda | Guy Haley | — |
-| ✅ 📚 | 5/5 | El Señor del Fin de los Tiempos | Josh Reynolds | — |
-
-## Warhammer Fantasy — Trilogía de Sigmar
-
-**Estado:** ✅ Trilogía completa en casa · 📚 Pendiente de leer.
-
-| Estado | Título | Autor | Lectura | Mi nota /10 |
-|---|---|---|---|---:|
-| ✅ | Heldenhammer | Graham McNeill | Pendiente | — |
-| ✅ | Imperio | Graham McNeill | Pendiente | — |
-| ✅ | El Rey Dios | Graham McNeill | Pendiente | — |
-
-**Otra trilogía de Warhammer:** has indicado que la tienes comprada y pendiente de leer, pero todavía no has identificado cuál es. No se añaden títulos ni cantidad adicional al inventario hasta identificarla.
+The earlier reading status of The End Times and Sigmar remains unread in that record. Ownership does not mark a book as read. See the [search list](fantasía/warhammer-fantasy/lista-de-busqueda.md) before looking for another edition.
 
 ## Pedro Urvi — El sendero del guardabosques
 
@@ -99,8 +81,8 @@ Aquí guardo **únicamente los libros físicos que ya tengo**. **Todo libro con 
 
 ## Pendiente de inventariar
 
-- Identificar la otra trilogía de Warhammer que tienes comprada y los títulos de la otra trilogía de Warhammer.
-- Los ómnibus de Gotrek y Félix están **excluidos de las búsquedas**, pero aún no están inventariados como ejemplares poseídos.
+- The previously unidentified Warhammer trilogy is **La secesión**; its titles and physical status are recorded in the [collection](fantasía/warhammer-fantasy/coleccion.md).
+- Gotrek and Felix omnibus ownership and the physical acquisition plan are recorded in the collection; do not infer that all six volumes have arrived.
 - Confirmar qué volúmenes de Thanquol y otras sagas tienes para completar tu biblioteca sin suponer posesión.
 
 > ✅ significa que ya lo tienes; 📖 indica lectura confirmada. La nota es tu valoración personal sobre 10. **Media de Abercrombie (11 libros valorados, incluyendo *Los diablos*): 9,23/10** (incluyendo *Medio rey*, ahora valorado).

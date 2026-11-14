@@ -6,6 +6,6 @@ Mi rincón en español para documentar las novelas de fantasía que voy leyendo,
 
 ## Universos
 
-- [Warhammer Fantasy](warhammer-fantasy/README.md)
+- [Warhammer Fantasy y Age of Sigmar](warhammer-fantasy/README.md): [colección](warhammer-fantasy/coleccion.md), [lista de búsqueda](warhammer-fantasy/lista-de-busqueda.md) y futuras notas de lectura.
 
 El contenido irá creciendo poco a poco con mis lecturas.

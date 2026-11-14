@@ -6,67 +6,9 @@
 
 ## Warhammer Fantasy
 
-Novelas de este universo, excepto Gotrek y Félix.
+Use the canonical [Warhammer search list](fantasía/warhammer-fantasy/lista-de-busqueda.md) and [collection inventory](fantasía/warhammer-fantasy/coleccion.md). The search list separates 33 gaps across Fantasy and Age of Sigmar from 31 existing physical-collection candidates already available digitally. A digital copy does not confirm paper ownership or remove the interest in a physical copy.
 
-**Fuente de verificación:** [catálogo contrastado con Timun Mas/Minotauro](https://www.grimnir.es/l/novelas-warhammer-fantasy-listado-completo-de-titulos/). Se excluyen todos los ómnibus y novelas de Gotrek y Félix de la búsqueda, así como títulos sin traducción española. Los libros de Thanquol deben comprobarse contra tu colección antes de comprar.
-
-### Skavens y elfos oscuros
-
-- 🔎 **El Vidente Gris** · edición castellana documentada.
-- 🔎 **El Templo de la Serpiente** · edición castellana documentada.
-- 🔎 **La maldición del demonio** · edición castellana documentada.
-- 🔎 **Tormenta de sangre** · edición castellana documentada.
-- 🔎 **Devorador de almas** · edición castellana documentada.
-- 🔎 **La espada de disformidad** · edición castellana documentada.
-- 🔎 **El señor de la destrucción** · edición castellana documentada.
-
-### Elfos, enanos y no muertos
-
-- 🔎 **Malekith** · edición castellana documentada.
-- 🔎 **El Rey Sombrío** · edición castellana documentada.
-- 🔎 **Caledor** · edición castellana documentada.
-- 🔎 **La sangre de Aenarion** · edición castellana documentada.
-- 🔎 **Defensores de Ulthuan** · edición castellana documentada.
-- 🔎 **Los guardianes del bosque** · edición castellana documentada.
-- 🔎 **El custodio de agravios** · edición castellana documentada.
-- 🔎 **El quebrantador de juramentos** · edición castellana documentada.
-- 🔎 **Nagash el hechicero** · edición castellana documentada.
-- 🔎 **Nagash el invencible** · edición castellana documentada.
-- 🔎 **Nagash el inmortal** · edición castellana documentada.
-- 🔎 **Drachenfels** · edición castellana documentada.
-- 🔎 **Genevieve no muerta** · edición castellana documentada.
-- 🔎 **La bestia de Altdorf** · edición castellana documentada.
-- 🔎 **Uñas de plata** · edición castellana documentada.
-- 🔎 **Herencia** · edición castellana documentada.
-- 🔎 **Dominio** · edición castellana documentada.
-- 🔎 **Venganza** · edición castellana documentada.
-- 🔎 **Hija de la sangre** · edición castellana documentada.
-- 🔎 **Forja de la sangre** · edición castellana documentada.
-
-### Imperio, Caos y antihéroes
-
-- 🔎 **Reiksguard** · edición castellana documentada.
-- 🔎 **Estigma de Condenación** · edición castellana documentada.
-- 🔎 **Estigma de Herejía** · edición castellana documentada.
-- 🔎 **El azote de Valnir** · edición castellana documentada.
-- 🔎 **La lanza rota** · edición castellana documentada.
-- 🔎 **Sangre corrupta** · edición castellana documentada.
-- 🔎 **El embajador** · edición castellana documentada.
-- 🔎 **Los dientes de Ursun** · edición castellana documentada.
-- 🔎 **Dinero sangriento** · edición castellana documentada.
-- 🔎 **Sangre y acero** · edición castellana documentada.
-- 🔎 **La sangre del dragón** · edición castellana documentada.
-- 🔎 **Caos en el Imperio** · edición castellana documentada.
-- 🔎 **Cargamento maldito** · edición castellana documentada.
-- 🔎 **Asesinato en Marienburgo** · edición castellana documentada.
-- 🔎 **El vino de los sueños** · edición castellana documentada.
-- 🔎 **La marca del caos** · edición castellana documentada.
-- 🔎 **La venganza de Gilead** · edición castellana documentada.
-- 🔎 **Los jinetes de la muerte** · edición castellana documentada.
-- 🔎 **Los martillos de Ulric** · edición castellana documentada.
-- 🔎 **Los muertos y los condenados** · edición castellana documentada.
-- 🔎 **Nigromante** · edición castellana documentada.
-- 🔎 **Tormenta mágica** · edición castellana documentada.
+All five End Times novels and both identified trilogies are physically owned. Gotrek and Felix is covered by the physical omnibus plan, including the overlapping contents of Historias perdidas and La antología. Confirm receipt separately from purchase.
 
 ## Reinos Olvidados — universo compartido de Dungeons & Dragons
 
@@ -146,17 +88,7 @@ Novelas de este universo, excepto Gotrek y Félix.
 
 ### Warhammer Age of Sigmar
 
-- 🔎 **El rey Hueco** — John French · vampiro protagonista, prioridad muy alta · castellano (Minotauro).
-- 🔎 **El reino muerto** — John French · continuación de Cado Ezechiar · castellano (Minotauro).
-- 🔎 **Gloomspite** — Andy Clark · horror y goblins, prioridad muy alta · castellano (Minotauro).
-- 🔎 **Guerras del alma** — Josh Reynolds · Sigmar contra Nagash, prioridad alta · castellano (Minotauro).
-- 🔎 **Dominio** — Darius Hinks · fantasía bélica y Reinos Mortales · castellano (Minotauro).
-- 🔎 **La puerta de los huesos** — Andy Clark · ejércitos y Caos · castellano (Minotauro).
-- 🔎 **Las puertas de Azyr** — Chris Wraight · inicio del conflicto · castellano (Minotauro).
-- 🔎 **Guerra por los Reinos Mortales (ómnibus)** — Josh Reynolds, Chris Wraight y Darius Hinks · edición castellana 2026 · contiene *Las puertas de Azyr*, *Guerras del alma* y *Dominio*: **alternativa a los tres individuales, no comprar duplicados**.
-- 🔎 **Realmslayer** — David Guymer · Gotrek en Age of Sigmar, edición castellana física 2025.
-- 🔎 **Soulslayer** — Darius Hinks · Gotrek, edición castellana en catálogo.
-- 🔎 **Blightslayer** — Richard Strachan · Gotrek, edición castellana en catálogo.
+The complete scoped list of 18 published Spanish narrative volumes is maintained in the [Warhammer search list](fantasía/warhammer-fantasy/lista-de-busqueda.md#age-of-sigmar-18). The collection explains the three-title omnibus alternative and keeps the forthcoming Verminslayer separate. No physical or digital ownership is confirmed for these 18 entries.
 
 ### Alta fantasía oscura fuera de Warhammer
 
@@ -169,7 +101,7 @@ Novelas de este universo, excepto Gotrek y Félix.
 
 ## Comprobar antes de buscar
 
-- **Thanquol**: el usuario está leyendo la trilogía; comprobar cuáles posee.
+- **Thanquol**: digital copies of El vidente gris and El templo de la serpiente are confirmed; physical volumes and the exact current reading volume still need confirmation.
 - **Mistborn**: comprobar volúmenes ya leídos o poseídos.
 - **Gotrek y Félix**: no buscar ómnibus.
 
@@ -197,10 +129,10 @@ Novelas de este universo, excepto Gotrek y Félix.
 
 ## Archivo de exclusiones por idioma (no buscar)
 
+Verified Spanish editions have been removed from this historical exclusion list. Their original English titles are aliases, not additional missing books; see the canonical Warhammer collection. The remaining entries retain their previous unresolved status.
+
 Los siguientes títulos se han retirado preventivamente porque su edición española no está verificada. **No son compras pendientes** y solo se reconsiderarán si se confirma una edición publicada en castellano.
 
-- Grey Seer
-- Temple of the Serpent
 - Thanquol's Doom
 - Headtaker
 - Skarsnik
@@ -209,49 +141,12 @@ Los siguientes títulos se han retirado preventivamente porque su edición espa�
 - Wolf of Sigmar
 - Sword of Caledor
 - Bane of Malekith
-- Malekith
-- Shadow King
-- Caledor
 - Sons of Ellyrion
-- The Daemon's Curse
-- Bloodstorm
-- Reaper of Souls
-- Warpsword
-- Lord of Ruin
-- Genevieve Undead
-- Beasts in Velvet
-- Silver Nails
-- Inheritance
-- Dominion
-- Retribution
-- Bloodborn
-- Bloodforged
 - Bloodsworn
-- Nagash the Sorcerer
-- Nagash the Unbroken
-- Nagash Immortal
-- Heldenhammer
-- Empire (Sigmar)
-- God King
-- Reiksguard
-- Valnir's Bane
-- The Broken Lance
-- Tainted Blood
-- Blood Money
-- Blood and Steel
-- Blood of the Dragon
-- The Ambassador
-- Ursun's Teeth
 - Mathias Thulmann: Witch Hunter
 - Knight Errant
 - Knight of the Realm
-- Riders of the Dead
 - The Adventures of Florin & Lorenzo
-- The Return of Nagash
-- The Fall of Altdorf
-- The Curse of Khaine
-- The Rise of the Horned Rat
-- The Lord of the End Times
 - Goblin Quest
 - The Grey Bastards
 - Orconomics
