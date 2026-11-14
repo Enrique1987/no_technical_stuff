@@ -68,6 +68,28 @@ Novelas de este universo, excepto Gotrek y Félix.
 - 🔎 **Nigromante** · edición castellana documentada.
 - 🔎 **Tormenta mágica** · edición castellana documentada.
 
+## Reinos Olvidados — universo compartido de Dungeons & Dragons
+
+**Prioridad exploratoria:** empezar por la trilogía *El elfo oscuro* (La morada, El exilio, El refugio), que **ya está en mi biblioteca física**. No duplicarla en esta lista. Buscar únicamente ejemplares físicos en castellano y preferentemente de segunda mano; evitar compras de sagas enteras antes de comprobar afinidad con el universo.
+
+### Prioridad alta — El Valle del Viento Helado (R. A. Salvatore)
+
+- 🔎 **La piedra de cristal** — libro 1; Drizzt, Bruenor y compañeros; castellano en papel confirmado.
+- 🔎 **Ríos de plata** — libro 2; castellano en papel confirmado.
+- 🔎 **La gema del halfling** — libro 3; castellano en papel confirmado.
+
+**Alternativa:** buscar el tomo recopilatorio físico *El Valle del Viento Helado* (Timun Mas, ISBN 9788448037840), que incluye las tres novelas. No comprar los individuales si se adquiere el recopilatorio.
+
+### Prioridad secundaria — Elminster (Ed Greenwood)
+
+- 🔎 **Elminster, la forja de un mago** — libro 1; castellano en papel confirmado.
+- 🔎 **Elminster en Myth Drannor** — libro 2; castellano en papel confirmado.
+- 🔎 **La tentación de Elminster** — libro 3; castellano en papel confirmado.
+
+**Alternativa:** estuche físico *Elminster el mago* (Timun Mas, ISBN 9788448038113), que reúne estos tres; evitar duplicados.
+
+**Criterio:** son candidatos por universo y disponibilidad en castellano, **no novelas garantizadas de 8/10**. No ampliar automáticamente a docenas de títulos sin evaluar primero la trilogía de Drizzt.
+
 ## Fantasía — otros universos
 
 ### Protagonistas no humanos
