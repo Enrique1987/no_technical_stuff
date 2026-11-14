@@ -8,7 +8,7 @@
 
 ## 📖 Leyendo ahora
 
-- **Gotrek y Félix — segundo ómnibus** (Warhammer Fantasy). En curso; aún no inventariado en la biblioteca.
+- **Gotrek y Félix — segundo ómnibus** (Warhammer Fantasy). En curso. [Collection and acquisition status](fantasía/warhammer-fantasy/coleccion.md): volume 2 received; volume 3 purchased, receipt pending.
 - **Thanquol** — lectura paralela (volumen exacto por confirmar).
 
 ## 📚 Índice de la colección
@@ -17,6 +17,7 @@
 - [Novela histórica — biblioteca y notas](historical_library.md) — Posteguillo, Escipión, Trajano y Julio César.
 - [Mi biblioteca de novela negra](crime_library.md) — serie completa de Bernie Gunther, con control de ejemplares y notas.
 - [Libros de fantasía por buscar](fantasy_wishlist.md) — wishlist sin precios.
+- [Warhammer collection](fantasía/warhammer-fantasy/coleccion.md) and [search list](fantasía/warhammer-fantasy/lista-de-busqueda.md) — canonical format-specific inventory and acquisition plan.
 
 ## Después, posibles lecturas
 
