@@ -8,11 +8,10 @@
 
 Novelas de este universo, excepto Gotrek y Félix.
 
-**Fuente de verificación:** [catálogo contrastado con Timun Mas/Minotauro](https://www.grimnir.es/l/novelas-warhammer-fantasy-listado-completo-de-titulos/). Se excluyen todos los ómnibus y novelas de Gotrek y Félix de la búsqueda, así como títulos sin traducción española. Los libros de Thanquol deben comprobarse contra tu colección antes de comprar.
+**Fuente de verificación:** [catálogo contrastado con Timun Mas/Minotauro](https://www.grimnir.es/l/novelas-warhammer-fantasy-listado-completo-de-titulos/). Se excluyen todos los ómnibus y novelas de Gotrek y Félix de la búsqueda, así como títulos sin traducción española. *El Vidente Gris* ya está en la biblioteca física y en lectura; comprobar los demás libros de Thanquol antes de comprar.
 
 ### Skavens y elfos oscuros
 
-- 🔎 **El Vidente Gris** · edición castellana documentada.
 - 🔎 **El Templo de la Serpiente** · edición castellana documentada.
 - 🔎 **La maldición del demonio** · edición castellana documentada.
 - 🔎 **Tormenta de sangre** · edición castellana documentada.
@@ -121,7 +120,7 @@ Novelas de este universo, excepto Gotrek y Félix.
 
 ### Mistborn — Nacidos de la Bruma (Brandon Sanderson)
 
-**Primera era:** *El imperio final*, *El pozo de la ascensión* y *El héroe de las eras* ya leídos (9,4/10 cada uno). **Comprobar si tienes ejemplares físicos antes de buscarlos**; no duplicar.
+**Primera era:** *El imperio final*, *El pozo de la ascensión* y *El héroe de las eras* ya leídos y confirmados físicamente (9,4/10 cada uno); no buscar ni duplicar.
 
 - 🔎 **Aleación de ley** — Era 2, libro 1 · edición castellana.
 - 🔎 **Sombras de identidad** — Era 2, libro 2 · edición castellana.
@@ -169,8 +168,8 @@ Novelas de este universo, excepto Gotrek y Félix.
 
 ## Comprobar antes de buscar
 
-- **Thanquol**: el usuario está leyendo la trilogía; comprobar cuáles posee.
-- **Mistborn**: comprobar volúmenes ya leídos o poseídos.
+- **Thanquol**: *El Vidente Gris* (volumen 1) ya está en la biblioteca; comprobar el resto de volúmenes antes de comprar.
+- **Mistborn**: primera era ya poseída; buscar únicamente los títulos pendientes de la segunda era y *Historia secreta* sin duplicados.
 - **Gotrek y Félix**: no buscar ómnibus.
 
 ### Joe Abercrombie — El Mar Quebrado (faltan dos)
