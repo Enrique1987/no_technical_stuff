@@ -61,6 +61,25 @@ Aquí guardo **únicamente los libros físicos que ya tengo**. **Todo libro con 
 | ✅ 📖 | El pozo de la ascensión | Brandon Sanderson | 9,4 | Papel |
 | ✅ 📖 | El héroe de las eras | Brandon Sanderson | 9,4 | Papel |
 
+## Warhammer Fantasy — Gotrek y Félix
+
+**William King:** tengo los dos primeros ómnibus físicos. He leído las seis primeras novelas, hasta *Matavampiros* inclusive. No asignar puntuaciones nuevas sin indicación expresa.
+
+| Estado | Ejemplar | Autor | Lectura | Mi nota /10 |
+|---|---|---|---|---:|
+| ✅ 📖 | Ómnibus 1 (novelas 1–3) | William King | Leído | — |
+| ✅ 📖 | Ómnibus 2 (novelas 4–6) | William King | Leído; terminado con *Matavampiros* | — |
+
+**Nota:** se registran dos ejemplares físicos y seis novelas leídas, no seis ejemplares separados.
+
+## Warhammer Fantasy — Thanquol y Destripahuesos
+
+| Estado | Título | Autor | Lectura | Mi nota /10 |
+|---|---|---|---|---:|
+| ✅ 📖 En curso | El Vidente Gris (libro 1) | C. L. Werner | Leyendo actualmente | — |
+
+Los otros volúmenes de Thanquol no están confirmados como poseídos.
+
 ## Warhammer Fantasy — El Fin de los Tiempos
 
 **Estado:** los cinco libros físicos están en tu biblioteca de casa, pendientes de leer y sin nota todavía. Títulos y autores según la edición castellana de Minotauro.
@@ -83,7 +102,7 @@ Aquí guardo **únicamente los libros físicos que ya tengo**. **Todo libro con 
 | ✅ | Imperio | Graham McNeill | Pendiente | — |
 | ✅ | El Rey Dios | Graham McNeill | Pendiente | — |
 
-**Otra trilogía de Warhammer:** has indicado que la tienes comprada y pendiente de leer, pero todavía no has identificado cuál es. No se añaden títulos ni cantidad adicional al inventario hasta identificarla.
+**Otra trilogía de Warhammer:** se mencionó anteriormente, pero no está identificada. No se añaden títulos ni ejemplares adicionales sin confirmar.
 
 ## Pedro Urvi — El sendero del guardabosques
 
@@ -100,7 +119,7 @@ Aquí guardo **únicamente los libros físicos que ya tengo**. **Todo libro con 
 ## Pendiente de inventariar
 
 - Identificar la otra trilogía de Warhammer que tienes comprada y los títulos de la otra trilogía de Warhammer.
-- Los ómnibus de Gotrek y Félix están **excluidos de las búsquedas**, pero aún no están inventariados como ejemplares poseídos.
-- Confirmar qué volúmenes de Thanquol y otras sagas tienes para completar tu biblioteca sin suponer posesión.
+- Los ómnibus 1 y 2 de Gotrek y Félix están inventariados y excluidos de las búsquedas.
+- Thanquol: primer volumen confirmado; verificar posesión de las continuaciones antes de comprarlas.
 
 > ✅ significa que ya lo tienes; 📖 indica lectura confirmada. La nota es tu valoración personal sobre 10. **Media de Abercrombie (11 libros valorados, incluyendo *Los diablos*): 9,23/10** (incluyendo *Medio rey*, ahora valorado).
