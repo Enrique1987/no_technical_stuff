@@ -8,8 +8,9 @@
 
 ## 📖 Leyendo ahora
 
-- **Gotrek y Félix — segundo ómnibus** (Warhammer Fantasy). En curso; aún no inventariado en la biblioteca.
-- **Thanquol** — lectura paralela (volumen exacto por confirmar).
+- **Thanquol y Destripahuesos — El Vidente Gris** (Warhammer Fantasy). Primer volumen, lectura en curso.
+
+**Lectura reciente:** terminados los ómnibus 1 y 2 de Gotrek y Félix (seis novelas de William King).
 
 ## 📚 Índice de la colección
 
