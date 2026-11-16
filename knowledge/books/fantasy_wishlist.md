@@ -186,6 +186,14 @@ Novelas de este universo, excepto Gotrek y Félix.
 - 🔎 **Media guerra** — Joe Abercrombie, El Mar Quebrado 3.
 
 
+## Ciencia ficción — exploración selectiva
+
+Esta sección es **experimental** y separada de la fantasía: priorizar novelas con personajes grises, intrigas, violencia, giros y ritmo narrativo ágil; **evitar dar prioridad a historias centradas en naves, tecnología o combates espaciales**. Buscar únicamente ediciones en castellano, preferentemente físicas de segunda mano para la compra mensual.
+
+### Amanecer rojo — Pierce Brown
+
+- 🔎 **Amanecer rojo** — libro 1; distopía de castas en Marte, infiltración, supervivencia y traiciones. **Prioridad media / prueba**: adquirir únicamente si aparece una buena oferta; no comprar continuaciones sin haberlo leído.
+
 ## Primer rastreo — 10 noviembre 2026
 
 **Precios de anuncio, NO precios finales entregados en Frankfurt.** Ninguna oferta se ha marcado como ganga confirmada hasta verificar envío a Alemania. Algunos vendedores muestran tarifas calculadas para otros destinos.
