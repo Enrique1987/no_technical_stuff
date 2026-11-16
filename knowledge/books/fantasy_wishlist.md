@@ -100,6 +100,14 @@ Novelas de este universo, excepto Gotrek y Félix.
 - 🔎 **El emperador goblin** · edición castellana: verificar.
 - 🔎 **Redwall** · edición castellana: verificar.
 
+### Guardianes de la Ciudadela — Laura Gallego (fantasía juvenil)
+
+**Prioridad media.** Trilogía completa publicada en castellano. Buscar ejemplares físicos de segunda mano y comparar también ofertas del estuche completo. No comprar volúmenes duplicados; preferir comenzar por el primero si el lote completo no supone un ahorro claro.
+
+- 🔎 **El bestiario de Axlin** — libro 1; castellano; prioridad media.
+- 🔎 **El secreto de Xein** — libro 2; castellano; comprar en oferta.
+- 🔎 **La misión de Rox** — libro 3; castellano; comprar en oferta.
+
 ### Sagas épicas, grimdark y fantasía moderna
 
 **Archivo de las Tormentas:** ya están incluidos los cinco volúmenes principales publicados en castellano (*El camino de los reyes*, *Palabras radiantes*, *Juramentada*, *El ritmo de la guerra* y *Viento y verdad*). No duplicarlos.
