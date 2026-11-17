@@ -133,3 +133,7 @@ Solo títulos en castellano. Al comprar uno, retirarlo de esta lista y añadirlo
 ## Ciencia ficción
 
 - Amanecer rojo
+## Cómics de fantasía oscura
+
+- Las crónicas de Fellspyre
+
