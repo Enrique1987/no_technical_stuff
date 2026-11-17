@@ -69,6 +69,7 @@ Solo títulos en castellano. Al comprar uno, retirarlo de esta lista y añadirlo
 
 ## Reinos Olvidados
 
+- Desintegración
 - La piedra de cristal
 - Ríos de plata
 - La gema del halfling
@@ -114,6 +115,14 @@ Solo títulos en castellano. Al comprar uno, retirarlo de esta lista y añadirlo
 - Media guerra
 - La caza nocturna
 - La espada rota
+
+- El sauce oscuro
+- La sombra del loto negro
+- Maldad
+- El corazón del Naga
+- El sueño del lekon
+- La sangre de los antiguos reyes
+- Héroes de ceniza
 
 ## Fantasía juvenil y aventuras
 
