@@ -124,6 +124,12 @@ Solo títulos en castellano. Al comprar uno, retirarlo de esta lista y añadirlo
 - La sangre de los antiguos reyes
 - Héroes de ceniza
 
+- Blackwing
+- Las naves de la magia
+- Las mentiras de Locke Lamora
+- En costas extrañas
+- El pistolero
+
 ## Fantasía juvenil y aventuras
 
 - El bestiario de Axlin
