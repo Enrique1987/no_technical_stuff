@@ -130,6 +130,8 @@ Solo títulos en castellano. Al comprar uno, retirarlo de esta lista y añadirlo
 - En costas extrañas
 - El pistolero
 
+- La rebelión goblin
+
 ## Fantasía juvenil y aventuras
 
 - El bestiario de Axlin
