@@ -125,6 +125,7 @@ Solo títulos en castellano. Al comprar uno, retirarlo de esta lista y añadirlo
 - Héroes de ceniza
 
 - Blackwing
+- Los reyes de la tierra salvaje
 - Las naves de la magia
 - Las mentiras de Locke Lamora
 - En costas extrañas
