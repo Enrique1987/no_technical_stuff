@@ -79,6 +79,8 @@ Solo títulos en castellano. Al comprar uno, retirarlo de esta lista y añadirlo
 
 ## Fantasía oscura y épica
 
+- Entre dos fuegos
+
 - Las cinco estirpes
 - Kaz el minotauro
 - Elric de Melniboné
